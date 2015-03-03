@@ -34,3 +34,6 @@ You will learn how to create and edit text files within your text editor, basic 
 
 ## Evaluation
 Your project will be evaluated by a Udacity reviewer for general feedback only, it will not be evaluated for meeting specific technical expectations.
+
+## For reviewers
+The difficulty level of this project is intentionally very low and the intent is not to challenge the student but to ensure they have a positive experience and are comfortable with the project submission and feedback process. When providing feedback on this project, ensure that feedback is friendly and encouraging in tone.
