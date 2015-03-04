@@ -1,12 +1,12 @@
-## Reviewer Instructions for Getting Started with HTML
-# Who are these students?
+# Reviewer Instructions for Getting Started with HTML
+## Who are these students?
 These students are enrolled in the Intro to Programming Nanodegree program. They are beginners and brand new to the world of programming. 
-# How does this project fit into the overall program?
+## How does this project fit into the overall program?
 Over the course of the program, students will build a web page.  This project is the first stage.   
-What should I comment on and expect from students?
+## What should I comment on and expect from students?
 We’d like you comment not only on the html, but also the content within the html.
-HTML 
-The html you will see is the first code these students have ever written.  Because of this, it’s especially important that reviews are positive! The feedback you provide them is intended for their learning and they will be continuing to add functionality to their web page through the rest of their Nanodegree program.
+* HTML 
+** The html you will see is the first code these students have ever written.  Because of this, it’s especially important that reviews are positive! The feedback you provide them is intended for their learning and they will be continuing to add functionality to their web page through the rest of their Nanodegree program.
 You should look for:
 Use of Logical HTML Structure 
 All opening tags are closed
