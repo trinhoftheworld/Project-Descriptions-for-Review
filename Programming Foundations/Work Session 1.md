@@ -7,9 +7,9 @@ Over the course of the program, students will build a web page.  This project is
 We’d like you comment not only on the html, but also the content within the html.
 * HTML 
 ** The html you will see is the first code these students have ever written.  Because of this, it’s especially important that reviews are positive! The feedback you provide them is intended for their learning and they will be continuing to add functionality to their web page through the rest of their Nanodegree program.
-You should look for:
-Use of Logical HTML Structure 
-All opening tags are closed
+** You should look for:
+*** Use of Logical HTML Structure 
+****  All opening tags are closed
 Use of basic tags such as:
 <b>
 <em>
