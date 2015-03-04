@@ -2,7 +2,7 @@
 The code you will see is the first code these students have written. Because of this, it’s especially important that reviews are positive! You may be the first expert programmer that this person has interacted with. Use this opportunity to welcome them into the programming community with open arms.
 
 The submissions you see will be simple HTML that will probably only use some of the following tags:
-* <b>
+* \<b>
 * <em>
 * <a>
 * with href attribute
