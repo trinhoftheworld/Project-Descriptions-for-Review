@@ -10,20 +10,20 @@ We’d like you comment not only on the html, but also the content within the ht
 ** You should look for:
   * Use of Logical HTML Structure 
     *  All opening tags are closed
-Use of basic tags such as:
-<b>
-<em>
-<a> with href attribute
-<img> with src attribute 
-<p>
-<span> and <div> (though they probably won’t know how to use these effectively yet)
-You should not expect:
-<head> or <body> tags
-Proper indentation
-Any CSS or styling
-For students who meet or exceed expectations at this stage: feel free to introduce a new concept such as <head> or <body> tags, proper indentation, etc.. 
-Content within HTML
-The content of the web page will be notes students have taken on the high level concepts in the first lesson.  As a reviewer, you aren’t expected to check that they have any specific concepts included, but if you see a student has written something that demonstrates any confusion around a specific concept, feel free to clarify it for them. 
+  * Use of basic tags such as:
+    * \<b>
+    * \<em>
+    * \<a> with href attribute
+    * \<img> with src attribute 
+    * \<p>
+    * \<span> and \<div> (though they probably won’t know how to use these effectively yet)
+** You should not expect:
+  * \<head> or \<body> tags
+  * Proper indentation
+  * Any CSS or styling
+** For students who meet or exceed expectations at this stage: feel free to introduce a new concept such as \<head> or \<body> tags, proper indentation, etc.. 
+* Content within HTML
+  * The content of the web page will be notes students have taken on the high level concepts in the first lesson.  As a reviewer, you aren’t expected to check that they have any specific concepts included, but if you see a student has written something that demonstrates any confusion around a specific concept, feel free to clarify it for them. 
 Note that you can leave these comments using the same line-by-line interface for code review comments.
 
 
