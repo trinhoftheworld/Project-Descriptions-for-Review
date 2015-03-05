@@ -28,17 +28,3 @@ Note that you can leave these comments using the same line-by-line interface for
 
 
 
-
-# Student facing description: 
-# ![Andy](http://i.imgur.com/fdGeWES.png) How Am I Doing? Submit Work Session 1
-Throughout your Nanodegree program, you will submit your work at 5 stages for review.  You will see each of these in your <a href="https://udacity.com/course/nd000" target="_blank">Nanodegree portal</a>.  When you submit your work at these stages, you will receive a grade that indicates either that you've passed that stage, or that you need to work on your project and resubmit again.  
- 
-To give you an <em>early opportunity</em> to experience the submission process and get feedback <em>immediately</em> after you put your newest skills into practice, please submit your work for Work Session 1.  You'll see this indicated on the <a href="https://udacity.com/course/nd000" target="_blank">portal</a> as: "Getting Started with Work Sessions."  
-###Details:
-<ul>
-<li>You <b>will not receive a grade</b> for this first submission
-<li>There <b>will not be any consequences</b> for missing this deadline.  
-<li>This is the <b>only work session you will submit.</b>  
-<li>This is a <b>formative checkpoint</b> designed to give you immediate feedback and ensure you have the confidence and the support you need to keep moving forward.  
-
-Next: Follow the steps on the next two slides to submit Work Session 1.
