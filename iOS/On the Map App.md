@@ -23,7 +23,7 @@ For detailed information on how your project will be assessed, continue to the n
 ##Evaluation
 Your project will be evaluated by a Udacity Code Reviewer according to the rubric below. All criteria must "meet specifications" in order to pass.
 
-<a href="http://lh4.ggpht.com/umhKmjIzeloPd0cE1klGxJtfHEAOwc99HPo5-OVXn5U8DHlklo8PkqRuwVpLz_4r9HxyTR8gJEuxwwtNNA=s0#w=1253&h=2402" target="_blank">![On the Map Rubric](//lh4.ggpht.com/umhKmjIzeloPd0cE1klGxJtfHEAOwc99HPo5-OVXn5U8DHlklo8PkqRuwVpLz_4r9HxyTR8gJEuxwwtNNA=s0#w=1253&h=2402)</a>
+<a href="lh4.ggpht.com/umhKmjIzeloPd0cE1klGxJtfHEAOwc99HPo5-OVXn5U8DHlklo8PkqRuwVpLz_4r9HxyTR8gJEuxwwtNNA=s0#w=1253&h=2402" target="_blank">![On the Map Rubric](//lh4.ggpht.com/umhKmjIzeloPd0cE1klGxJtfHEAOwc99HPo5-OVXn5U8DHlklo8PkqRuwVpLz_4r9HxyTR8gJEuxwwtNNA=s0#w=1253&h=2402)</a>
 
 ##Submission
 ###Check your project for completion
