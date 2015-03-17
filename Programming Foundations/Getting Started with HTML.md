@@ -59,6 +59,6 @@ Most students will have already added this header code into their HTML already a
 </head>
 ```
 
-Obviously this HTML file fails HTML validation, but for the sake of the student experience, we want you to ignore this when you review their code and just point out that Codepen adds in this extra information using this sentence:
+Obviously this HTML file fails HTML validation, but for the sake of the student experience, we want you to ignore this when you review their code. You should not fail the student simply because of this extra code that Codepen adds. You should point out out that Codepen adds in this extra information using this sentence:
 
 > It looks you were using CodePen's Zip file exporter! Please be aware that CodePen added this extra code in your HTML file whenever you export your files. This added code would invalidate your HTML code. I suggest you delete this extra code the next time you plan to use CodePen's Zip file exporter.
