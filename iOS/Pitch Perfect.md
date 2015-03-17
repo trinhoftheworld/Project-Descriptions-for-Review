@@ -36,7 +36,7 @@ For detailed information on how your project will be assessed, continue to the n
 ##Evaluation
 Your project will be evaluated by a Udacity Code Reviewer according to the rubric below. All criteria must "meet specifications" in order to pass.
 
-<a href="http://lh6.ggpht.com/lNusgFBGyjZ4Sz1UGYlkZvFxXMQlXDIEdHgoAyACCUytRmEXekeRZiEPUo5ZG9EkQaA5XnOVLV2S9S6iI7c=s0#w=1252&h=1201" target="_blank">![Pitch Perfect Rubric](////lh6.ggpht.com/lNusgFBGyjZ4Sz1UGYlkZvFxXMQlXDIEdHgoAyACCUytRmEXekeRZiEPUo5ZG9EkQaA5XnOVLV2S9S6iI7c=s0#w=1252&h=1201)</a>
+<a href="//lh6.ggpht.com/4aZGncS6hQJLQkVgvYy_fEhhytExGbSUavdTouu62vt8oL2VGwfz5rjZ1_iplXKxoeFdOdI2bmUtAtgDcFc=s0#w=1252&h=1308" target="_blank">![Pitch Perfect Rubric](//lh6.ggpht.com/4aZGncS6hQJLQkVgvYy_fEhhytExGbSUavdTouu62vt8oL2VGwfz5rjZ1_iplXKxoeFdOdI2bmUtAtgDcFc=s0#w=1252&h=1308)</a>
 
 ##Submission
 ###Check your project for completion
@@ -49,3 +49,4 @@ Before submitting your project for evaluation, we recommend that you check that 
 
 ###Submit your project
 When you're ready to submit your project, <a href="https://review.udacity.com/#!/projects/3082218740" target="_blank">click here</a> and follow the instructions. If you are having any problems submitting your project please email us at **ios-project@udacity.com**.
+
