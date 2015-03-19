@@ -1,7 +1,7 @@
 ## How do I Complete this Project? (v.1)
 This project is connected to the [Intro to HTML and CSS course](https://www.udacity.com/course/viewer#!/c-ud304-nd) but depending on your background knowledge of HTML and CSS you may not need to take the whole thing to complete this project. Here's what you should do:
 
-1. Download the [design mockup file](https://storage.googleapis.com/supplemental_media/udacityu/2655898586/p1.pdf?GoogleAccessId=1069728276824-2uvq09l4tiplc0gf30rskdsgvtam6k1j@developer.gserviceaccount.com&Expires=1425405409&Signature=vP5SJWc8XOaJsvp5LaeFjwbzetK0J/oJ6J49LAT4/Gj3vIYvivHwGQbhE/V8p3yPM/HRXpMylS82yupORv9%2B3ctgwOroGR3sMRNKX8LLg%2Bi6TWcYIOccU95sYuEvyphZ4ewcQKVJdzw4x3Ez/u25Qa0mDvtIR47TRO7lbECHjRo%3D)
+1. Download the [design mockup file](https://storage.googleapis.com/supplemental_media/udacityu/2655898586/p1.pdf)
 2. Identify the various boxes you will need to build in order to recreate this design.
 3. Write your HTML and CSS files, continue to iterate until your work is representative of the design mockup.
 4. Take the time to personalize your portfolio with custom colors, additional content and your own images.
