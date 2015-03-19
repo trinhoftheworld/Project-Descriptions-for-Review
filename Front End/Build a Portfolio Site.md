@@ -12,7 +12,7 @@ This project is connected to the [Intro to HTML and CSS course](https://www.udac
 - CSS3: **Property *[some property here]* is an unknown vendor extension** when using vendor prefixed properties (like -moz-box-sizing).
 
 ## Useful Links
-[Udacity Frontend Nanodegree Style Guide](https://storage.googleapis.com/supplemental_media/udacityu/3289678549/HTML%20and%20CSS%20Style%20Guide.pdf?GoogleAccessId=1069728276824-2uvq09l4tiplc0gf30rskdsgvtam6k1j@developer.gserviceaccount.com&Expires=1425405535&Signature=wk0x4aU%2B9m0GreahIKh/aId32hO2A/xsfKq9ww0DQngFM5b98pJv4%2B0C3FT2FkcQeRFL5Y4yezm/rNiiT7YpJ3w4Soox8eOy67t4lAZlzj39qnC6905JFDdphPuujVeR3cq30IHU%2BqKsbRQZxLV4IbUGLrDrkxHaZ%2B6NeD4phBU%3D)
+[Udacity Frontend Nanodegree Style Guide](https://storage.googleapis.com/supplemental_media/udacityu/3289678549/HTML%20and%20CSS%20Style%20Guide.pdf)
 
 ## Evaluation (v.1)
 Your project will be evaluated by a Udacity reviewer according to the rubric below. Be sure to review it thoroughly before you submit. Your "project meets specifications" if it meets specifications in all the criteria. 
