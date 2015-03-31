@@ -1,5 +1,5 @@
 ##Project Overview
-For this project, students will make their own app. They can either come up with their own idea or select from one of the ideas listed under App Ideas. They are also welcome to repurpose code from Sunshine to create a new app. 
+For this project, students will make their own Android app. They can either come up with their own idea or select from one of the ideas listed under App Ideas on the <a href= "https://www.udacity.com/wiki/ud853/project#android-fundamentals-project-description" target="_blank"> Project Description page</a>  They are also welcome to repurpose code from Sunshine to create a new app. 
 
 
 ##Why this project?
