@@ -20,10 +20,10 @@ Students will learn how to:
 1. Complete the <a href="https://www.udacity.com/course/viewer#!/c-ud853/l-1938208734/m-1922408690" target="_blank">Developing Android Apps course</a>
 2. Students will create an open-ended project following the Project Description and Rubric listed here
 3. The project must:
-* Import and build on the latest version of Android Studio (Eclipse users take note)
-* Be entirely self-contained on an Android device (No external devices/bluetooth peripherals).
-* Include only safe-for-work content in your app
-* Meet specifications on all required components of the rubric
+ * Import and build on the latest version of Android Studio (Eclipse users take note)
+ * Be entirely self-contained on an Android device (No external devices/bluetooth peripherals).
+ * Include only safe-for-work content in your app
+ * Meet specifications on all required components of the rubric
 
 
 ##Evaluation
