@@ -34,7 +34,7 @@ The criteria included in this rubric are a subset of the Core App Quality Guidel
 ![Android Fundamentals Rubric](https://lh3.googleusercontent.com/xFEFkbOcdGOhFlgWC9zvpiLjJXFZWfUtGMGmJUZ2HGtR6mYpuUT5s4RTvdEwp_2Tm1AJsIIgFavMwzpPFrk=s0#w=1440&h=2130)
 
 ###How Grading Works (instructions to student)
-1. Your project evaluator will be able to see all of your code submissions. They will use this rubric to evaluate your code as well as your written responses from the <a ref="https://s3.amazonaws.com/content.udacity-data.com/course/ud853/Android+Fundamentals+Project+Self-Evaluation.docx" target="_blank">Self-Evaluation</a>
+1. Your project evaluator will be able to see all of your code submissions. They will use this rubric to evaluate your code as well as your written responses from the <a ref="https://s3.amazonaws.com/content.udacity-data.com/course/ud853/Android+Fundamentals+Project+Self-Evaluation.doc" target="_blank">Self-Evaluation.</a>
 2. Your grade will simply be "meets specifications," “exceeds specifications,” or "does not meet specifications,"
   1. You earn “meets specifications” if **all** criteria in the Required Components section “meet specifications”.
   2. You earn “exceeds specifications” if **all** criteria in the Required Components section “meet specifications” and you receive “exceed specifications” in **all** criteria under at least 2 of the 4 categories of the Optional Components section.
