@@ -31,9 +31,10 @@ emails_by_address : this directory contains many text files, each of which conta
 We will provide you with starter code, that reads in the data, takes your features of choice, then puts them into a numpy array, which is the input form that most sklearn functions assume.  Your job is to engineer the features, pick and tune an algorithm, test, and evaluate your identifier.  Several of the mini-projects were designed with this final project in mind, so be on the lookout for ways to use the work you’ve already done.
 
 The features in the data fall into three major types, namely financial features, email features and POI labels. 
-financial features: ['salary', 'deferral_payments', 'total_payments', 'loan_advances', 'bonus', 'restricted_stock_deferred', 'deferred_income', 'total_stock_value', 'expenses', 'exercised_stock_options', 'other', 'long_term_incentive', 'restricted_stock', 'director_fees']  (all units are in US dollars)
-email features: ['to_messages', 'email_address', 'from_poi_to_this_person', 'from_messages', 'from_this_person_to_poi', 'poi', 'shared_receipt_with_poi'] (units are generally number of emails messages; notable exception is ‘email_address’, which is a text string)
-POI label: [‘poi’] (boolean, represented as integer)
+**financial features:** 'salary', 'deferral_payments', 'total_payments', 'loan_advances', 'bonus', 'restricted_stock_deferred', 'deferred_income', 'total_stock_value', 'expenses', 'exercised_stock_options', 'other', 'long_term_incentive', 'restricted_stock', 'director_fees'  (all units are in US dollars)
+
+**email features:** ['to_messages', 'email_address', 'from_poi_to_this_person', 'from_messages', 'from_this_person_to_poi', 'poi', 'shared_receipt_with_poi' 
+**POI label:** ‘poi’ (boolean, represented as integer)
 
 You are encouraged to make, transform or rescale new features from the starter features.  If you do this, you should store the new feature to my_dataset, and if you use the new feature in the final algorithm, you should also add the feature name to my_feature_list, so your coach can access it during testing.  For a concrete example of a new feature that you could add to the dataset, refer to the lesson on Feature Selection.
 
