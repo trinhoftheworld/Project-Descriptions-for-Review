@@ -23,8 +23,8 @@ Students will learn how to:
  * Import and build on the latest version of Android Studio (Eclipse users take note)
  * Be entirely self-contained on an Android device (No external devices/bluetooth peripherals).
  * Include only safe-for-work content in your app
- * Meet specifications on all required components of the rubric
-
+ * Meet specifications on all required components of the rubric (including sumbitting their Project Description, Self-Evaluation, Mockups for all user-facing screens including tablet mocks, and a signed .apk)
+ 
 
 ##Evaluation
 ###Overview
