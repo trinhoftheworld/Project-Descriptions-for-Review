@@ -1,7 +1,7 @@
 # Intro to Machine Learning Final Project
 
 ## Evaluation Overview Document
-Review (this)[https://docs.google.com/document/d/1tK3JdHJe9sBP7W7aRYE5yszhfVIdG0w6JIu3ohrAjlM/pub] document first before you grade any Intro to ML projects. It might be helpful to first review the project details below, and then delve into the evaluation overview specifics. 
+Review [this](https://docs.google.com/document/d/1tK3JdHJe9sBP7W7aRYE5yszhfVIdG0w6JIu3ohrAjlM/pub) document first before you grade any Intro to ML projects. It might be helpful to first review the project details below, and then delve into the evaluation overview specifics. 
 
 ## Sample Projects - Internal
 
