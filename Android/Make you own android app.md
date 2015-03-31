@@ -1,9 +1,9 @@
 ##Project Overview
-For this project, students will make their own Android app. They can either come up with their own idea or select from one of the ideas listed under App Ideas on the <a href= "https://www.udacity.com/wiki/ud853/project#android-fundamentals-project-description" target="_blank"> Project Description page</a>  They are also welcome to repurpose code from Sunshine to create a new app. 
+For this project, students will make their own Android app. They can either come up with their own idea or select from one of the ideas listed under App Ideas on the <a href= "https://www.udacity.com/wiki/ud853/project#android-fundamentals-project-description" target="_blank"> Final Project Description page.</a>  They are also welcome to repurpose code from Sunshine to create a new app. 
 
 
 ##Why this project?
-This project is a way for students to demonstrate the concepts they learned in the Developing Android Apps course. 
+This project is a way for students to demonstrate the concepts they learned in the Developing Android Apps course by building them out.  
 
 ##What will students learn?
 Students will learn how to:
@@ -29,12 +29,12 @@ Students will learn how to:
 ##Evaluation
 ###Overview
 The project will be evaluated against the rubric below. 
-The criteria included in this rubric are a subset of the Core App Quality Guidelines that the app would be evaluated against if it were submitted to the Google Play Store. You can find the full list of guidelines here: http://developer.android.com/distribute/essentials/quality/core.html
+The criteria included in this rubric are a subset of the Core App Quality Guidelines that the app would be evaluated against if it were submitted to the Google Play Store. Find the full list of guidelines here: http://developer.android.com/distribute/essentials/quality/core.html
 
 ![Android Fundamentals Rubric](https://lh3.googleusercontent.com/xFEFkbOcdGOhFlgWC9zvpiLjJXFZWfUtGMGmJUZ2HGtR6mYpuUT5s4RTvdEwp_2Tm1AJsIIgFavMwzpPFrk=s0#w=1440&h=2130)
 
 ###How Grading Works (instructions to student)
-1. Your project evaluator will be able to see all of your code submissions. They will use this rubric to evaluate your code as well as your written responses.
+1. Your project evaluator will be able to see all of your code submissions. They will use this rubric to evaluate your code as well as your written responses from the <a ref="https://s3.amazonaws.com/content.udacity-data.com/course/ud853/Android+Fundamentals+Project+Self-Evaluation.docx" target="_blank">Self-Evaluation</a>
 2. Your grade will simply be "meets specifications," “exceeds specifications,” or "does not meet specifications,"
   1. You earn “meets specifications” if **all** criteria in the Required Components section “meet specifications”.
   2. You earn “exceeds specifications” if **all** criteria in the Required Components section “meet specifications” and you receive “exceed specifications” in **all** criteria under at least 2 of the 4 categories of the Optional Components section.
