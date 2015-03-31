@@ -27,11 +27,11 @@ Students will learn how to:
 
 
 ##Evaluation
-####Overview
+###Overview
 The project will be evaluated against the rubric below. 
 The criteria included in this rubric are a subset of the Core App Quality Guidelines that the app would be evaluated against if it were submitted to the Google Play Store. You can find the full list of guidelines here: http://developer.android.com/distribute/essentials/quality/core.html
 
- ####How Grading Works (instructions to student)
+ ###How Grading Works (instructions to student)
 1. Your project evaluator will be able to see all of your code submissions. They will use this rubric to evaluate your code as well as your written responses.
 2. Your grade will simply be "meets specifications," “exceeds specifications,” or "does not meet specifications,"
   1. You earn “meets specifications” if **all** criteria in the Required Components section “meet specifications”.
