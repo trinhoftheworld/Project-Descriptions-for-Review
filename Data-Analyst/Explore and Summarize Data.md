@@ -1,7 +1,7 @@
 # Data Analysis with R
 
 ## Project evaluation document
-Review [this](https://docs.google.com/document/d/1igUXeEOoyddfze1EFONqVlDH_o8dwXxPEWF0rTzFdQA/pub?embedded=true) document first before you grade any Intro to ML projects. It might be helpful to first review the project details below, and then delve into the evaluation overview specifics.
+Review [this](https://docs.google.com/document/d/1igUXeEOoyddfze1EFONqVlDH_o8dwXxPEWF0rTzFdQA/pub?embedded=true) document first before you grade any Data Analysis with R projects. It might be helpful to first review the project details below, and then delve into the evaluation overview specifics.
 
 ## Sample projects - internal
 
