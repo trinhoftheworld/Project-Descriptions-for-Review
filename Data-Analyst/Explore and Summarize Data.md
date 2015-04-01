@@ -65,7 +65,7 @@ library(ggplot2)
 </code></pre>
 <br>
 <li>In a RMD or R-Markdown file, use of the hash or pound symbol (#) outside of r blocks of code creates an H1 header.</li>
-<h1>THIS IS AN H1 HEADER</h1>
+```<h1>THIS IS AN H1 HEADER</h1>```
 <em>You won't see the hash symbol in front of the text above once you knit the HTML file. See <a href="http://daringfireball.net/projects/markdown/syntax" target="_blank">Markdown Syntax</a> for additional help with Markdown formatting.</em>
 <br>
 <br>
