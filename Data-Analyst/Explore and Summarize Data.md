@@ -52,17 +52,16 @@ You will want to document your exploration and analysis in an **RMD file** which
 Please download the <a href="https://s3.amazonaws.com/udacity-hosted-downloads/ud651/projectTemplate.Rmd" target="_blank">**project template file**</a> to get started on your analysis.
 
 ## Formatting Notes
-
 We want you to submit a readable RMD file. To help you prepare your project, please look over the following notes.
 
 <ol><li> The knitted HTML output should be readable. Be sure to review your knitted HTML file and check that the code and plots appear correct.</li>
 <br>
 <li>Comments for R code in a RMD or R-Markdown file are included inside of r blocks by using a hash or pound symbol.</li>
 <br>
-<pre><code>
+<pre><code>```{r}
 library(ggplot2)
 # This is an example of a comment that is not actual code.
-
+```
 </code></pre>
 <br>
 <li>In a RMD or R-Markdown file, use of the hash or pound symbol (#) outside of r blocks of code creates an H1 header.</li>
