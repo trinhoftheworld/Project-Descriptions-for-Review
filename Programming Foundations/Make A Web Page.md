@@ -22,6 +22,8 @@ In addition to looking at the code you write, your project reviewer will also re
 
 
 ##Watch Outs
+
+###Code Pen
 Students will first start with using an online tool: www.codepen.io. Most of them will be using the "Export Zip" option in Codepen and will then directly upload this zip onto our servers. Unfortunatley Codepen adds in this extra HTML code at the beginning of their code:
 
 ```
@@ -55,4 +57,8 @@ Most students will have already added this header code into their HTML already a
 Obviously this HTML file fails HTML validation, but for the sake of the student experience, we want you to ignore this when you review their code. You should not fail the student simply because of this extra code that Codepen adds. You should point out out that Codepen adds in this extra information using this sentence:
 
 > It looks you were using CodePen's Zip file exporter! Please be aware that CodePen added this extra code in your HTML file whenever you export your files. This added code would invalidate your HTML code. I suggest you delete this extra code the next time you plan to use CodePen's Zip file exporter.
+
+###HTML validation
+
+If the student does not add a character encoding in the HTML such as `<meta charset="UTF-8">`, your HTML validator might report an error, but on the public website: http://validator.w3.org/, the validator does not throw an error if the character set is missing. To be fair for students, if the only validation error that shows up is the character encoding, do not fail the student and remind the student to add in the character encoding for cross-language compatability.
 
