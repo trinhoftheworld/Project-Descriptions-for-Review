@@ -4,7 +4,7 @@
 Review [this](https://docs.google.com/document/d/1tK3JdHJe9sBP7W7aRYE5yszhfVIdG0w6JIu3ohrAjlM/pub) document first before you grade any Intro to ML projects. It might be helpful to first review the project details below, and then delve into the evaluation overview specifics. 
 
 ## Sample Project - Internal
-Please review carefully [this](https://drive.google.com/folderview?id=0B5NDCI6_oY1qflExenZjeXVHNTREamtwSzhzczV1TFA2bXVhRG9SZzdpUVUxelNmd1hmeU0&usp=sharing) project submission and the corresponding evaluation. You are going to need a Gmail account to open the folder and add it to your Google Drive (using the button in the top right that says "Add to Drive").
+Please review carefully [these](https://www.dropbox.com/sh/13iklukn0khedak/AABI0qdlZujmm7gJzV9CyfW8a?dl=0) project submissions and the corresponding evaluations. 
 
 ## How do I Complete this Project? (Student-facing)
 This project is connected to the [Intro to Machine Learning course](https://www.udacity.com/course/ud120), but depending on your background knowledge of machine learning, you may not need to take the whole thing to complete this project. 
