@@ -60,5 +60,5 @@ Obviously this HTML file fails HTML validation, but for the sake of the student 
 
 ###HTML validation
 
-If the student does not add a character encoding in the HTML such as `<meta charset="UTF-8">`, your HTML validator might report an error, but on the public website: http://validator.w3.org/, the validator does not throw an error if the character set is missing. To be fair for students, if the only validation error that shows up is the character encoding, do not fail the student and remind the student to add in the character encoding for cross-language compatability.
+If the student does not add a character encoding in the HTML such as `<meta charset="UTF-8">`, your HTML validator might report an error, but on the public website: http://validator.w3.org/, the validator does not throw an error if the character set is missing. To be fair for students, if the only validation error that shows up is the character encoding, do not fail the student and remind the student to add in the character encoding for cross-language compatibility.
 
