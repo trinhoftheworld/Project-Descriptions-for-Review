@@ -26,6 +26,10 @@ The student’s web page should have a section that either explains or demonstra
 
 I suspect most submissions will meet specifications. This stage is intentionally easy.
 
+Below is the Stage 5 project rubric:
+
+![rubric](http://i.imgur.com/nI8LHMa.png)
+
 ## 3. If student passes, generate a “secret key”
 
 If the student has passed, that means they have completed the Nanodegree! This is a big deal. By successfully completing, they’ve also earned the right to add their project to a list of student submissions. But doing this requires that they have a “secret key.”
