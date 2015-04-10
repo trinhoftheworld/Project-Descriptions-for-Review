@@ -7,13 +7,13 @@ This project is a way for students to demonstrate the concepts they learned in t
 
 ##What will students learn?
 Students will learn how to:
-* Create an app that meets standard design Android's CoreApp Quality Guildlines
+* Create an app that meets standard design Android's CoreApp Quality Guidelines
 * Identify the minimum permissions required to support core functionality
 * Implement a ContentProvider to access locally stored data
 * Implement a SyncAdapter or IntentService when pulling/sending data from a web service
 * Use a Loader to move data to an app's views
 * Preserve and restore user or app state upon device rotation or from the Home/Back buttons
-* *Optional:* Implement Notificaitons, ShareActionProvider, Broadcast Events, and Custom Views
+* *Optional:* Implement Notifications, ShareActionProvider, Broadcast Events, and Custom Views
 
 
 ##How do students complete this project?
@@ -23,7 +23,7 @@ Students will learn how to:
  * Import and build on the latest version of Android Studio (Eclipse users take note)
  * Be entirely self-contained on an Android device (No external devices/bluetooth peripherals).
  * Include only safe-for-work content in your app
- * Meet specifications on all required components of the rubric (including sumbitting their Project Description, Self-Evaluation, Mockups for all user-facing screens including tablet mocks, and a signed .apk)
+ * Meet specifications on all required components of the rubric (including submitting their Project Description, Self-Evaluation, Mockups for all user-facing screens including tablet mocks, and a signed .apk)
  
 
 ##Evaluation
