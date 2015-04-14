@@ -8,6 +8,10 @@ Students will develop an application that provides a list of items within a vari
 5. Run your application within the VM (python /vagrant/catalog/application.py)
 6. Access and test your application by visiting http://localhost:8000 locally
 
+## Things to watch out for
+Note: Students can exceed expectations by storing the urls of externally hosted images.
+It isn't necessary to store images in the database or to create some other upload system.
+
 ##Project Display Example
 
 **Note: The screenshots on this page are just examples of one implementation of the minimal functionality. You are encouraged to redesign and strive for even better solutions.**
