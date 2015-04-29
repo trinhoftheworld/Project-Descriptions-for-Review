@@ -35,6 +35,13 @@ Students will first start with using an online tool: www.codepen.io. Most of the
 </head>
 ```
 
+and this HTML code at the end:
+
+```
+</body>
+</html>
+```
+
 Most students will have already added this header code into their HTML already and we will see double definitions in their HTML code such as this:
 
 ```
