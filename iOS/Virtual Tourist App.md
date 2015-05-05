@@ -14,11 +14,9 @@ Use Core Data for local persistence of an object structure
 The project will give you practice with powerful mechanisms for persisting data locally on a device. Storing media and retrieving it later is an essential skill for any iOS developer.
 
 ##How do I complete this project?
-1. Download a detailed specification <a href="https://www.udacity.com/api/nodes/3858348553/supplemental_media/4-virtualtouristspecificationpdf/download" target="_blank">here</a>.
+1. Download a detailed specification from the **Downloadables** section below.
 2. If necessary, review <a href="https://www.udacity.com/course/viewer#!/c-ud325-nd/l-3648658724/m-3748298563" target="_blank">iOS Persistence and Core Data</a> for detailed instructions.
 3. Create your app!
-
-For detailed information on how your project will be assessed, continue to the next node.
 
 ##Evaluation
 Your project will be evaluated by a Udacity Code Reviewer according to the rubric below. All criteria must "meet specifications" in order to pass.
