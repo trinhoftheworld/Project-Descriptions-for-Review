@@ -22,3 +22,9 @@ None of these are required, but they may be helpful.
 Your project will be evaluated by a Udacity reviewer according to the rubric below. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass. 
 ![r1](http://i.imgur.com/yZUCaoi.png)
 ![r2](http://i.imgur.com/NTpAQGL.png)
+
+## How Grading Works
+
+We have created a document that gives rubric specific instructions to help you grade this project.You can access the document here: [Neighborhood Map - Best Practices](https://docs.google.com/document/d/1mjKTn6fSpiN-vk5RF-SCeSJDEPMS0ifmjsCaiH77VlE/pub)
+
+It is VERY IMPORTANT that you read this document before you begin evaluating projects. Ensure you work with the guidelines given in the document for each evaluation.
