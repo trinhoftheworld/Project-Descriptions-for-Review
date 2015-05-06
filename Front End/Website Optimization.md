@@ -12,3 +12,9 @@ You will optimize a provided website with a number of optimization- and performa
 Your project will be evaluated by a Udacity reviewer according to the rubric below. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass. 
 ![rubric](http://i.imgur.com/akrw6Xa.png)
 **Make sure you submit both your source and production code in the same repository in separate folders.**
+
+## How Grading Works
+
+We have created a document that gives rubric specific instructions to help you grade this project.You can access the document here: [Website Performance Optimization - Best Practices](https://docs.google.com/document/d/1wcXOrjbmFameFtAKlwmxrfvS990M6WltWhos3sRpy4M/pub)
+
+It is VERY IMPORTANT that you read this document before you begin evaluating projects. Ensure you work with the guidelines given in the document for each evaluation.
