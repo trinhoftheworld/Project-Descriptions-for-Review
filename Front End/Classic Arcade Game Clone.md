@@ -12,3 +12,9 @@
 Your project will be evaluated by a Udacity reviewer according to the rubric below. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass. 
 ![rubric1](http://i.imgur.com/IGYbpQS.png)
 ![rubric2](http://i.imgur.com/U8pUvkQ.png)
+
+## How Grading Works
+
+We have created a document that gives rubric specific instructions to help you grade this project.You can access the document here: [Classic Arcade Game Clone - Best Practices](https://docs.google.com/document/d/1sYjy4Swrppc6OreRy6zWQFKNnJhu1pJ9uikZPSD0HMc/pub)
+
+It is VERY IMPORTANT that you read this document before you begin evaluating projects. Ensure you work with the guidelines given in the document for each evaluation.
