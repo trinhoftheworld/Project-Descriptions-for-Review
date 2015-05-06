@@ -20,6 +20,6 @@ Your project will be evaluated by a Udacity reviewer according to the rubric bel
 
 ## How Grading Works
 
-We have created a document that gives rubric specific instructions to help you grade this project.You can access the document here: [Build a Portfolio Site - Best Practices](https://docs.google.com/document/d/1TMTRhrm7Boz1uic9Ji5zfhu-QtimaxVMKqPdVldr-8A/edit)
+We have created a document that gives rubric specific instructions to help you grade this project.You can access the document here: [Build a Portfolio Site - Best Practices](https://docs.google.com/document/d/1TMTRhrm7Boz1uic9Ji5zfhu-QtimaxVMKqPdVldr-8A/pub)
 
 It is VERY IMPORTANT that you read this document before you begin evaluating projects. Ensure you work with the guidelines given in the document for each evaluation.
