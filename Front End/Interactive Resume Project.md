@@ -100,3 +100,9 @@ The resume has four distinct sections: work, education, projects and a header wi
 Your project will be evaluated by a Udacity reviewer according to the rubric below. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass.
 ![](http://i.imgur.com/fGqxUkt.png)
 
+## How Grading Works
+
+We have created a document that gives rubric specific instructions to help you grade this project.You can access the document here: [Interactive Resume - Best Practices](https://docs.google.com/document/d/1VX76xeWFXIroBzUMyzOCAwMQy6vK56B_YpmWTL3lBk0/pub)
+
+It is VERY IMPORTANT that you read this document before you begin evaluating projects. Ensure you work with the guidelines given in the document for each evaluation.
+
