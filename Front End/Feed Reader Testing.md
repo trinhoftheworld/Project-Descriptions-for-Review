@@ -30,4 +30,4 @@ Your project will be evaluated by a Udacity reviewer according to the rubric bel
 
 We have created a document that gives rubric specific instructions to help you grade this project.You can access the document here: [Feed Reader Testing - Best Practices](https://docs.google.com/document/d/1qWmiG3W8eC77A5-0mWL-65Lw7PuuoREYmXxnTfBHx-U/pub)
 
-It is VERY IMPORTANT that you read this document before you begin evaluating projects. Ensure you work with the guidelines given in the document for each evaluation.
+It is **VERY IMPORTANT** that you read this document before you begin evaluating projects. Ensure you work with the guidelines given in the document for each evaluation.
