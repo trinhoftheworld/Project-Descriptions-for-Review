@@ -17,3 +17,9 @@ This project is connected to the [Intro to HTML and CSS course](https://www.udac
 ## Evaluation (v.1)
 Your project will be evaluated by a Udacity reviewer according to the rubric below. Be sure to review it thoroughly before you submit. Your "project meets specifications" if it meets specifications in all the criteria. 
 ![rubric](http://imgur.com/uhX3YFo.jpg)
+
+## How Grading Works
+
+We have created a document that gives rubric specific instructions to help you grade this project.You can access the document here: [Build a Portfolio Site - Best Practices](https://docs.google.com/document/d/1TMTRhrm7Boz1uic9Ji5zfhu-QtimaxVMKqPdVldr-8A/edit)
+
+It is VERY IMPORTANT that you read this document before you begin evaluating projects. Ensure you work with the guidelines given in the document for each evaluation.
