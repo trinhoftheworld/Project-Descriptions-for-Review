@@ -50,7 +50,7 @@ important.
 
 The rubric that will be used is included below:
 
-![Rubric, Pt. 1](http://i.imgur.com/M9Ni0DF.png)
+![Rubric, Pt. 1](http://i.imgur.com/WDQ90g6.png)
 ![Rubric, Pt. 2](http://i.imgur.com/Na8Fg46.png)
 
 ##Watch Outs
