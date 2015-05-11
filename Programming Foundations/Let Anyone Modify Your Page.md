@@ -50,8 +50,8 @@ important.
 
 The rubric that will be used is included below:
 
-![Rubric, Pt. 1](http://i.imgur.com/cYXBXwt.png)
-![Rubric, Pt. 2](http://i.imgur.com/Na8Fg46.png)
+![Rubric, Pt. 1](http://i.imgur.com/zsHe9mw.png)
+![Rubric, Pt. 2](http://i.imgur.com/Zf5yr3o.png)
 
 ##Watch Outs
 Students may still use an online tool to type up their notes in HTML and CSS: www.codepen.io. Most of them will be using the "Export Zip" option in Codepen and will then directly upload this zip onto our servers. Unfortunatley Codepen adds in this extra HTML code at the beginning of their code:
