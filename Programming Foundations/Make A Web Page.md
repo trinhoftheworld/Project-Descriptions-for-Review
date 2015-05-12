@@ -32,7 +32,9 @@ Students will first start with using an online tool: www.codepen.io. Most of the
 <head>
   <meta charset="UTF-8">
   <title>CodePen - A Pen by  Mark Nguyen</title>
+  <link rel="stylesheet" href="css/style.css">
 </head>
+<body>
 ```
 
 and this HTML code at the end:
