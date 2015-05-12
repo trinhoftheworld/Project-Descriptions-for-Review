@@ -13,7 +13,7 @@ Students will learn how to:
 * Implement a SyncAdapter, AsyncTasks or IntentService when pulling/sending data from a web service
 * Use a Loader to move data to an app's views
 * Preserve and restore user or app state upon device rotation or from the Home/Back buttons
-* *Optional:* Implement Notificaitons, ShareActionProvider, Broadcast Events, and Custom Views
+* *Optional:* Implement Notifications, ShareActionProvider, Broadcast Events, and Custom Views
 
 
 ##How do students complete this project?
