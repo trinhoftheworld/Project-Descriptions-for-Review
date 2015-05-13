@@ -19,7 +19,7 @@ The project will give you practice with powerful mechanisms for persisting data 
 3. Create your app!
 
 ##Watch Out!
-The app should only interact with Core Data objects (contexts, Persons, and Movies) on the main thread. That means that any interactions with these objects inside a networking completion handler should be wrapped in `dispatch_async(dispatch_get_main_queue()) {...}`
+The app should only interact with Core Data objects (contexts, Persons, and Images) on the main thread. That means that any interactions with these objects inside a networking completion handler should be wrapped in `dispatch_async(dispatch_get_main_queue()) {...}`
 
 If a submission crashes then there may be a race condition, caused by accessing Core Data off the main queue. Make sure to check. In these situations you may be seeing a crash that students don't. It can be very device specific.  If you find a Core Data object being accessed off of the main thread then make sure to include that in your comments to the student, and remind them of the `dispatch_async(dispatch_get_main_queue())` technique.
 
