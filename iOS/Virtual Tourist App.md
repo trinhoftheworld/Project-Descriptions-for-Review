@@ -14,9 +14,10 @@ Use Core Data for local persistence of an object structure
 The project will give you practice with powerful mechanisms for persisting data locally on a device. Storing media and retrieving it later is an essential skill for any iOS developer.
 
 ##How do I complete this project?
-1. Download a detailed specification from [here](https://github.com/udacity/Project-Descriptions-for-Review/blob/master/iOS/Virtual%20Tourist%20Specification.pdf).
+1. View the <a href="https://docs.google.com/document/d/1j-UIi1jJGuNWKoEjEk09wwYf4ebefnwcVrUYbiHh1MI/pub?embedded=true" target="_blank">detailed specification</a>.
 2. If necessary, review <a href="https://www.udacity.com/course/viewer#!/c-ud325-nd/l-3648658724/m-3748298563" target="_blank">iOS Persistence and Core Data</a> for detailed instructions.
-3. Create your app!
+3. If you desire, download the app images from this repository. 
+4. Create your app!
 
 ##Watch Out!
 The app should only interact with Core Data objects (contexts, Persons, and Images) on the main thread. That means that any interactions with these objects inside a networking completion handler should be wrapped in `dispatch_async(dispatch_get_main_queue()) {...}`
@@ -24,6 +25,4 @@ The app should only interact with Core Data objects (contexts, Persons, and Imag
 If a submission crashes then there may be a race condition, caused by accessing Core Data off the main queue. Make sure to check. In these situations you may be seeing a crash that students don't. It can be very device specific.  If you find a Core Data object being accessed off of the main thread then make sure to include that in your comments to the student, and remind them of the `dispatch_async(dispatch_get_main_queue())` technique.
 
 ##Evaluation
-Your project will be evaluated by a Udacity Code Reviewer according to the rubric below. All criteria must "meet specifications" in order to pass.
-
-![Virtual Tourist Rubric](https://lh3.googleusercontent.com/Go6qEFlHc4uU88chW6ME841U1aPJpV8t4-fjR_je6i6-l0N0KML8Y5fNHW8M244hYDyQzzWHdvCJycIlGV9K=s0#w=2502&h=3060)
+Your project will be evaluated by a Udacity Code Reviewer according to <a href="https://docs.google.com/document/d/1ZY422V1_zq5rBGkGOlhLw_g99xS15Qx0tFUYtFOJ46Y/pub?embedded=true" target="_blank">this rubric</a>. All criteria must "meet specifications" in order to pass.
