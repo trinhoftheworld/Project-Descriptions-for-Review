@@ -27,16 +27,12 @@ Learning how to find answers to development questions by searching documentation
 You will also make a relevant project that you will feel proud to share with your friends, family, and peers.
 
 ##How do I complete this project?
-1. Download a detailed specification and, if desired, a collection of images used in the app. These can be found in the **Downloadables** section below.
+1. Follow this <a href="https://docs.google.com/document/d/1giyVDlOLBPUyNDVf_Eyqt0Oyxb-3sUDKPFK-XBkZNbc/pub?embedded=true" target="_blank">detailed specification</a>. If desired, you can download the collection of images used in the app from this repo.
 2. If necessary, take <a href="https://www.udacity.com/course/ud585-nd" target="_blank">Intro to iOS App Development with Swift</a>, which walks you step-by-step through creating the Pitch Perfect App.
-3. Once you have a completed app, make the <a href="https://docs.google.com/document/d/1uotwFB5A3qmQL4-NTNuI4UT_UqqPrsZ17wZMY6XhlB0/pub" target="_blank">following changes to your code</a>, based on feedback from a professional iOS Developer.
-
-For detailed information on how your project will be assessed, continue to the next node.
+3. Once you have a completed app, make the <a href="https://docs.google.com/document/d/1uotwFB5A3qmQL4-NTNuI4UT_UqqPrsZ17wZMY6XhlB0/pub?embedded=true" target="_blank">following changes to your code</a>, based on feedback from a professional iOS Developer.
 
 ##Evaluation
-Your project will be evaluated by a Udacity Code Reviewer according to the rubric below. All criteria must "meet specifications" in order to pass.
-
-<a href="//lh6.ggpht.com/4aZGncS6hQJLQkVgvYy_fEhhytExGbSUavdTouu62vt8oL2VGwfz5rjZ1_iplXKxoeFdOdI2bmUtAtgDcFc=s0#w=1252&h=1308" target="_blank">![Pitch Perfect Rubric](https://lh6.ggpht.com/4aZGncS6hQJLQkVgvYy_fEhhytExGbSUavdTouu62vt8oL2VGwfz5rjZ1_iplXKxoeFdOdI2bmUtAtgDcFc=s0#w=1252&h=1308)</a>
+Your project will be evaluated by a Udacity Code Reviewer according to <a href="https://docs.google.com/document/d/1LlcUT90j-ItbRQpB3ivLHwjP-KgKOUdoOLpz0WirpSo/pub?embedded=true" target="_blank">this rubric</a>. All criteria must "meet specifications" in order to pass.
 
 ##Submission
 ###Check your project for completion
