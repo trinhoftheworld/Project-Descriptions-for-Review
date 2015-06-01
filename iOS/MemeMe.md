@@ -14,14 +14,12 @@ MemeMe covers many of the major UI components found in essentially every app. It
 * Implement user interfaces with tab views and collection views
 
 ##How Do I Complete this Project?
-1. Download a detailed specification <a href="https://drive.google.com/a/knowlabs.com/file/d/0B6w02oeqdrrbQU93TVJHVDFrd0U/view?usp=sharing" target="_blank">here</a>.
+1. View the detailed specifications <a href="https://docs.google.com/document/d/1G2onkzN_weWmiYErhQJw1lB9-zxM-2TQ0N5bNMAaI7I/pub?embedded=true" target="_blank">here</a>.
 2. If necessary, review <a href="https://www.udacity.com/course/viewer#!/c-ud788-nd/l-3669378557/m-3671998538" target="_blank">Lesson 6 of UIKit Fundamentals</a> for detailed instructions.
 3. Create your app!
 
 ##Evaluation
-Your project will be evaluated by a Udacity Code Reviewer according to the rubric below. All criteria must "meet specifications" in order to pass.
-
-![MemeMe Rubric](http://lh3.googleusercontent.com/QAtSwSq3a6DLafh8wq208aoeESR9VvLk7yA_AKSxn17VsoAx3aa4JVyFs_hruaLPy4uchHdYPtLEL0y9nQ=s0#w=1253&h=1280)
+Your project will be evaluated by a Udacity Code Reviewer according to the rubric <a href="https://docs.google.com/document/d/1LlcUT90j-ItbRQpB3ivLHwjP-KgKOUdoOLpz0WirpSo/pub?embedded=true" target="_blank">here</a>. All criteria must "meet specifications" in order to pass.
 
 **Additional features that would exceed expectations:**
 
