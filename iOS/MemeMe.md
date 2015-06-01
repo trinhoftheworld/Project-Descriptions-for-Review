@@ -19,7 +19,7 @@ MemeMe covers many of the major UI components found in essentially every app. It
 3. Create your app!
 
 ##Evaluation
-Your project will be evaluated by a Udacity Code Reviewer according to the rubric <a href="https://docs.google.com/document/d/1LlcUT90j-ItbRQpB3ivLHwjP-KgKOUdoOLpz0WirpSo/pub?embedded=true" target="_blank">here</a>. All criteria must "meet specifications" in order to pass.
+Your project will be evaluated by a Udacity Code Reviewer according to the rubric <a href="https://docs.google.com/document/d/1ni0X5sjS0NreQqBHJpg8Z0foAYwegfGTPPdBKTPskPI/pub?embedded=true" target="_blank">here</a>. All criteria must "meet specifications" in order to pass.
 
 **Additional features that would exceed expectations:**
 
