@@ -24,14 +24,11 @@ This project is open-ended, so it provides an opportunity for you to showcase yo
 Landing a job as an iOS Developer requires more than technical chops; it also requires a certain amount of creativity and innovation. Having with an app 100% of your own creation in their portfolio demonstrate a passion for the field that will set you apart from your competition.
 
 ##How do I complete this project?
-1. Download a detailed specification <a href="https://www.udacity.com/api/nodes/3868408567/supplemental_media/5-capstoneapppdf/download" target="_blank">here</a>.
+1. View the <a href="https://docs.google.com/document/d/1CWsC1jszFEYX5EM3CE9sX88FuIZCim4fMNml-lUPKlo/pub?embedded=true" target="_blank">detailed specification</a>.
+2. If necessary, view the <a href="https://www.udacity.com/course/how-to-make-an-ios-app--ud607-nd" target="_blank">How to Make an iOS App</a> course.
 3. Create your app!
-
-**Note:** We're still working on the supporting course for this final project. Stay tuned!
 
 For detailed information on how your project will be assessed, continue to the next node.
 
 ##Evaluation
-Your project will be evaluated by a Udacity Code Reviewer according to the rubric below. All criteria must "meet specifications" in order to pass.
-
-![Capstone Rubric](https://lh4.ggpht.com/aI4j0nFb40FxqJduKnlotAJ6JIoY7heGiZW3bF28aphwPCK_70wzjgf0wB5Rdbkj_wclVJo0X_HPbxXQgDOo=s0#w=1128&h=777)
+Your project will be evaluated by a Udacity Code Reviewer according to <a href="https://docs.google.com/document/d/1ahI-RrH2eWqXzc4GEbU79nAA5_1_jf1PgDVOaSETZvY/pub?embedded=true" target="_blank">this rubric</a>. All criteria must "meet specifications" in order to pass.
