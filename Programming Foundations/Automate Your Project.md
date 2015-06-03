@@ -42,7 +42,7 @@ The rubric that will be used is included below:
 ![](http://i.imgur.com/zrbAe13.png)
 
 ##Watch Outs
-Students may still use an online tool to type up their notes in HTML and CSS: www.codepen.io. Most of them will be using the "Export Zip" option in Codepen and will then directly upload this zip onto our servers. Unfortunatley Codepen adds in this extra HTML code at the beginning of their code:
+Students may still use an online tool to type up their notes in HTML and CSS: www.codepen.io. Most of them will be using the "Export Zip" option in Codepen and will then directly upload this zip onto our servers. Unfortunately Codepen adds in this extra HTML code at the beginning of their code:
 
 ```
 <!DOCTYPE html>

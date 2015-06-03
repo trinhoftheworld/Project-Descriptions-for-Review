@@ -1,8 +1,10 @@
 # ![Andy](http://i.imgur.com/fdGeWES.png) Project Specification
 
-Your project reviewer will review and provide feedback on two aspects of your
-submission: the functionality of your web page and the text you've written
-about what you've learned.
+This project involves using Google App Engine to host a webserver using Python. Students go through a portion of the Udacity Class [Web Development](https://www.udacity.com/course/web-development--cs253).
+
+Here is the actual link to the Stage 4 videos that students go through in the Intro to Programming Nanodegree: [Stage 4](https://www.udacity.com/course/viewer#!/c-ud000/l-4190509137/m-3630598767)
+
+The reviewer should have knowledge of Python and Web Development in Python. The framework that students apply is `webapp2` for WSGI and `jinja2` for the templating engine. The reviewer should quickly review Stage 4 to get familiar with webapp2 and jinja2 to get ready to review this project.
 
 ## 1 - Web Page / Code Review
 

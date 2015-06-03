@@ -1,6 +1,30 @@
-# Reviewer Instructions for Stage 5
+# ![Andy](http://i.imgur.com/fdGeWES.png) Project Specification
 
-## 1. View student’s web page
+This project involves students purely taking notes on [Stage 5](https://www.udacity.com/course/viewer#!/c-ud000/l-4149648704/m-3532629495)
+
+They will take lessons that involve:
+
+* Javascript, jQuery, AJAX
+* Using APIs
+* Recursion
+* Solving Big Problems
+* Responsive Web Design
+
+Furthermore, Stage 5 gives students the option to look at lessons from the 
+
+* [Swift class for iOS](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585)
+* [Android for Beginner's](https://www.udacity.com/course/android-development-for-beginners--ud837)
+* [Intro to Relational Databases](https://www.udacity.com/course/ud197)
+* [Design of Computer Programs](https://www.udacity.com/course/cs212)
+
+
+The student is required to ONLY write notes about any of the topics mentioned above. They do not necessary have to demonstrate their knowledge with computer code, but they certainly can demonstrate their knowledge with their code to get "Exceeds Specifications" on the project.
+
+The reviewer should be comfortable with at least one of the listed topics mentioned above in order to grade a student's understanding of the material presented in Stage 5. If the reviewer picks up a project where a student writes about a topic that the reviewer is not familiar with, then the reviewer should return the project back to the queue.
+
+## Reviewer Instructions for Stage 5
+
+### 1. View student’s web page
 
 The file you receive from students, when unzipped, should contain a file called `app.yaml`
 
@@ -20,7 +44,7 @@ The **appspot ID** determines the URL for the web page the student should have b
 
 You should go to the corresponding URL to see the student’s page.
 
-## 2. Review submission
+### 2. Review submission
 
 The student’s web page should have a section that either explains or demonstrates what they’ve learned in the last course of the Nanodegree (where they are encouraged to pursue something that interests them on their own).
 
@@ -30,7 +54,7 @@ Below is the Stage 5 project rubric:
 
 ![rubric](http://i.imgur.com/nI8LHMa.png)
 
-## 3. If student passes, generate a “secret key”
+### 3. If student passes, generate a “secret key”
 
 If the student has passed, that means they have completed the Nanodegree! This is a big deal. By successfully completing, they’ve also earned the right to add their project to a list of student submissions. But doing this requires that they have a “secret key.”
 
@@ -68,7 +92,7 @@ def generate_secret_key(appspot_id):
     return secret_key
 ```
 
-## 4. Write Feedback
+### 4. Write Feedback
 If the project meets expectations, congratulate the student! They've come a long way.
 
 And don't forget to include the `secret_key` and the submission URL [http://learn-2-code.appspot.com/student_submissions/](http://learn-2-code.appspot.com/student_submissions/) in the review. The first part of your review might look something like this:
