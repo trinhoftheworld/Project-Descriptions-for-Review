@@ -13,9 +13,9 @@ Working with data from networked sources is as important to iOS development as c
 
 ##How do I complete this project?
 1. View a detailed specification <a href="https://docs.google.com/document/d/1tPF1tmSzVYPSbpl7_JCeMKglKMIs3dUa4OrSAKEYNAs/pub?embedded=true" target="_blank">here</a>.
-2. Read the <a href="https://docs.google.com/document/d/1PHrIYRhl3r5jvRkuLvL0k6Rmws3H7NO1UAMnF5SoKXs/pub" target="_blank">Udacity API Guide</a> for an overview on how to use Udacity logins for On the Map.
-3. Read the <a href="https://docs.google.com/document/d/1QDS5J_fHBa7rH2V4MLbWKzNOAqKxJbZ9LPsyiRBtlOY/pub" target="_blank">Parse API Guide</a> for an overview of using the Parse API in On the Map.
-4. If necessary, review <a href="https://www.udacity.com/course/viewer#!/c-ud421-nd/l-3528678921/m-3750628798" target="_blank">iOS Networking with Swift</a> for detailed instructions.
+2. Read the <a href="https://docs.google.com/document/d/1MECZgeASBDYrbBg7RlRu9zBBLGd3_kfzsN-0FtURqn0/pub?embedded=true" target="_blank">Udacity API Guide</a> for an overview on how to use Udacity logins for On the Map.
+3. Read the <a href="https://docs.google.com/document/d/1E7JIiRxFR3nBiUUzkKal44l9JkSyqNWvQrNH4pDrOFU/pub?embedded=true" target="_blank">Parse API Guide</a> for an overview of using the Parse API in On the Map.
+4. If necessary, review <a href="https://www.udacity.com/course/viewer#!/c-ud421/l-3528678921/m-3750628798" target="_blank">iOS Networking with Swift</a> for detailed instructions.
 5. Create your app!
 
 ##Evaluation
