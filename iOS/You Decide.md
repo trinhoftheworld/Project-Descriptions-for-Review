@@ -25,7 +25,7 @@ Landing a job as an iOS Developer requires more than technical chops; it also re
 
 ##How do I complete this project?
 1. View the <a href="https://docs.google.com/document/d/1CWsC1jszFEYX5EM3CE9sX88FuIZCim4fMNml-lUPKlo/pub?embedded=true" target="_blank">detailed specification</a>.
-2. If necessary, view the <a href="https://www.udacity.com/course/how-to-make-an-ios-app--ud607-nd" target="_blank">How to Make an iOS App</a> course.
+2. If necessary, view the <a href="https://www.udacity.com/course/how-to-make-an-ios-app--ud607" target="_blank">How to Make an iOS App</a> course.
 3. Create your app!
 
 For detailed information on how your project will be assessed, continue to the next node.
