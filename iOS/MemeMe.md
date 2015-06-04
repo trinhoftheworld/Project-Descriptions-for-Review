@@ -15,7 +15,7 @@ MemeMe covers many of the major UI components found in essentially every app. It
 
 ##How Do I Complete this Project?
 1. View the detailed specifications <a href="https://docs.google.com/document/d/1G2onkzN_weWmiYErhQJw1lB9-zxM-2TQ0N5bNMAaI7I/pub?embedded=true" target="_blank">here</a>.
-2. If necessary, review <a href="https://www.udacity.com/course/viewer#!/c-ud788-nd/l-3669378557/m-3671998538" target="_blank">Lesson 6 of UIKit Fundamentals</a> for detailed instructions.
+2. If necessary, review <a href="https://www.udacity.com/course/viewer#!/c-ud788/l-3669378557/m-3671998538" target="_blank">Lesson 6 of UIKit Fundamentals</a> for detailed instructions.
 3. Create your app!
 
 ##Evaluation
