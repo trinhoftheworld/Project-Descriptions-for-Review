@@ -15,7 +15,7 @@ The project will give you practice with powerful mechanisms for persisting data 
 
 ##How do I complete this project?
 1. View the <a href="https://docs.google.com/document/d/1j-UIi1jJGuNWKoEjEk09wwYf4ebefnwcVrUYbiHh1MI/pub?embedded=true" target="_blank">detailed specification</a>.
-2. If necessary, review <a href="https://www.udacity.com/course/viewer#!/c-ud325-nd/l-3648658724/m-3748298563" target="_blank">iOS Persistence and Core Data</a> for detailed instructions.
+2. If necessary, review <a href="https://www.udacity.com/course/viewer#!/c-ud325/l-3648658724/m-3748298563" target="_blank">iOS Persistence and Core Data</a> for detailed instructions.
 3. If you desire, download the app images from this repository. 
 4. Create your app!
 
