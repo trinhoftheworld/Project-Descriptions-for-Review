@@ -1,34 +1,47 @@
-# ![Andy](http://i.imgur.com/fdGeWES.png) What you'll Make
+# ![Andy](http://i.imgur.com/fdGeWES.png) Automate Your Page
 
-You will make a computer program using the Python programming language. This program will automatically generates the HTML for your web page. This will allow you to change the HTML structure of any repeated element (for example, a concept or a description) in one place and then automatically regenerate your page.
+# Reviewer Instructions
 
+Students will write Python code to generate any form of HTML code. The students in this project are VERY beginner programmers and they have not learned any advance Python syntax and data structures such as dictionaries, keyword-arguments, recursion, file-streams, etc.
 
-# ![Andy](http://i.imgur.com/fdGeWES.png) Project Specification
+The students have a basic knowledge of:
 
-By the time you've gone through the second course, you'll have added a substantial number of new topics to your notes **and** written some code in a new language (Python).
+* Decision statements
+* While and For loops
+* Functions
+* Lists
+* Variables
+* Print statements
 
-Because of this, you'll submit 3 files.
+Therefore the reviewer should be lenient on the students' Python code and should not fail the student if the student used a multiline string as their data source to generate HTML code.
 
+Furthermore, the reviewer should not give recommendations with advanced code that the students would not understand.
+
+# Project Specification
+
+By the time they've gone through the second course, they'll have added a substantial number of new topics to their notes **and** written some code in a new language (Python).
+
+Because of this, they'll submit 3 files.
 
 1. The HTML for your notes.
 2. The CSS for your notes.
 3. A Python file (saved as `html_generator.py`)
 
-Your project reviewer will review and provide feedback on two aspects of your submission: the Python code you've written and the text content you've added for your notes file.
+Your project reviewer will review and provide feedback on two aspects of the students' submissions: the Python code they've written and the text content they've added for their notes file.
 
 ### 1 - Code Review
-Your reviewer will look at the Python code you've written and provide feedback on:
+The reviewer will look at the Python code students have written and provide feedback on:
 
-* **Use of Variables**: Your code should take advantage of variables and variable **names** should reflect the **values** they store. 
+* **Use of Variables**: Code should take advantage of variables and variable **names** should reflect the **values** they store. 
 
-* **Functions**: Your code should use functions appropriately to avoid repetition. Function parameters should have logical names and should all be used in the body of the function.
+* **Functions**: Code should use functions appropriately to avoid repetition. Function parameters should have logical names and should all be used in the body of the function.
 
 * **Appropriate use of Data**: Data types (`strings` vs `lists` for example) should be used appropriately. 
 
-* **Appropriate use of other coding techniques**: Your code should use statements like `if`, `then`, `else`, `while`, etc... appropriately.
+* **Appropriate use of other coding techniques**: Code should use statements like `if`, `then`, `else`, `while`, etc... appropriately.
 
 ### 2 - Content Review
-In addition to looking at the code you write, your project reviewer will also read your notes to help ensure you have a good understanding of the most important concepts covered so far. They will be looking for:
+In addition to looking at the code students write write, their project reviewer will also read your notes to help ensure you have a good understanding of the most important concepts covered so far. They will be looking for:
 
 * **Understanding of Programming**: Your notes should demonstrate an understanding of what it means to program a computer. 
 
