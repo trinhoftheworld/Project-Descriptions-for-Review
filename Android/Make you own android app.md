@@ -37,7 +37,7 @@ The criteria included in this rubric are a subset of the Core App Quality Guidel
 ###How Grading Works 
  
 We have created a document that gives rubric specific instructions to help you guys grade Developing Android Apps projects.You can access the document here:
-<a href="https://docs.google.com/document/u/0/d/1NXmAgvqN-Bd0e9nk7p_weR015JxuwtcoD0Xa1brSYqc/pub#h.pzmptaqbf9ex"> Android Apps Grading- Best Practices</a>
+<a href="https://docs.google.com/document/u/0/d/1NXmAgvqN-Bd0e9nk7p_weR015JxuwtcoD0Xa1brSYqc/pub?embedded=true"> Android Apps Grading- Best Practices</a>
  
 It is VERY IMPORTANT that you read this document before you begin evaluating projects.
 
