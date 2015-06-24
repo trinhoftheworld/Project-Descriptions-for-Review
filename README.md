@@ -21,10 +21,10 @@ Some important aspects all the reviewers should think about -
 
 **Your job is to ensure that after making the suggested changes, student meets specifications in the next submission and student has learned something important from your review.**
 
-###Previous reviewer made a mistake with one or more of the rubric criteria.
-Strictly follow the given rubric. Acknowledge to the student that “the previous reviewer has not mentioned it and Udacity coach will reach out to the reviewer  to ensure that this does not happen again.” Please send us an email at review-support@udacity.com as soon as you find any such case - with the link to the review and what rubric criteria has been missed by earlier reviewer. 
+###What should I do if I disagree with previous reviewer's call on a rubric criteria?
+Strictly follow the given rubric to the best of your understanding. Acknowledge to the student that "this is different from what the earlier reviewer mentioned and you are reaching out to a Udacity coach to resolve this inconsistency." Please send us an email at review-support@udacity.com as soon as you find any such case - with the link to the review and what parts you disagree with.  
 
-Since we want to ensure all of our reviewers are providing the great quality feedback that you are giving, we will reach out to the corresponding reviewers to inform them of the mistake so that they can avoid that in their future reviews. 
+It is important that we all agree on one interpretation of the rubric and we would love to have the dialogue with you and other reviewers to bring this together. 
 
 **Rule of thumb - follow the rubric strictly and let us know if you find any inconsistencies so that we can work with the reviewers to make the feedback consistent.**
 
