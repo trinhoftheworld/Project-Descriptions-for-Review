@@ -22,12 +22,12 @@ In this project you are given a web-based application that reads RSS feeds. The 
 15. Write a test that ensures when a new feed is loaded by the loadFeed function that the content actually changes.
 16. When complete - all of your tests should pass.
 
-## Evaluation
-Your project will be evaluated by a Udacity reviewer according to the rubric below. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass. 
-![rubric](http://i.imgur.com/79L92ou.png)
-
 ## How Grading Works
 
 We have created a document that gives rubric specific instructions to help you grade this project.You can access the document here: [Feed Reader Testing - Best Practices](https://docs.google.com/document/d/1qWmiG3W8eC77A5-0mWL-65Lw7PuuoREYmXxnTfBHx-U/pub)
 
 It is **VERY IMPORTANT** that you read this document before you begin evaluating projects. Ensure you work with the guidelines given in the document for each evaluation.
+
+## Evaluation
+Your project will be evaluated by a Udacity reviewer according to the rubric below. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass. 
+![rubric](http://i.imgur.com/79L92ou.png)
