@@ -4,7 +4,7 @@ This repository contains project descriptions for Udacity's Code Review Program.
 
 Some important aspects all the reviewers should think about -
 
-###When to use Can’t review button?
+###When to use "Can’t review" button?
 * If the submission is incomplete i.e. missing files. Let the student know which files are missing. Please download the project submission before you decide that it is not reviewable - sometimes, code review tab will not show files if the extensions aren’t right - however, you can still review the project and send feedback to the student. 
 * If the submission has all the files, but doesn’t compile. Please tell the student what the issue is. If you are unable to figure out the issue, please be honest with the student. Request the student to reach out to a coach (and also, let us know at review-support@udacity.com)
 
