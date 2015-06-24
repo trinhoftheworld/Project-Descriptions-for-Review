@@ -31,7 +31,7 @@ It is important that we all agree on one interpretation of the rubric and we wou
 ###What should I do when I  find a submission where student has not made sufficient progress from his last submission?
 Send us an email. Have a look at the previous review student has received. Do you think the student mis-understood the review they received from earlier reviewer? Let us know at review-support@udacity.com why you think this student hasn’t made much progress from their last submission. Udacity coach will look into this and reach out to the student and offer help in making a progress. 
 
-###What shoudl I do if a student asks a question in the rating comment they made? 
+###What should I do if a student asks a question in the rating comment they made? 
 Please send us an email with the link to the review student wrote feedback on. Also, write your response to the student. We will forward it to the appropriate student and cc you on the communication.
 
 ###What should I do if a student gives a low rating and/or says that my feedback was not satisfactory?
