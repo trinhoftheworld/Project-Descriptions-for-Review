@@ -10,7 +10,7 @@ By the end of course 3, you will be able to use other people's existing code in 
 
 For this stage, you only have to submit your HTML notes and the corresponding CSS file. Your submission will be evaluated according to the following rubric:
 
-![](http://i.imgur.com/GJhYXYM.png)
+![](http://i.imgur.com/1AYgbCV.png)
 
 ##Watch Outs
 Students may still use an online tool to type up their notes in HTML and CSS: www.codepen.io. Most of them will be using the "Export Zip" option in Codepen and will then directly upload this zip onto our servers. Unfortunatley Codepen adds in this extra HTML code at the beginning of their code:
