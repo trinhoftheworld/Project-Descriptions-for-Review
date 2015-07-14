@@ -1,8 +1,5 @@
 ## Reviewer Instructions
-Please [read this](https://docs.google.com/document/d/1Qq5-8s1mPb3PFVUbu10-gmixGZDeFyz5vE482NNj6jw/pub) for additional reviewing information
-
-
-![Project Roadmap](http://i.imgur.com/SnaSKyy.png)
+**Please [read this](https://docs.google.com/document/d/1Qq5-8s1mPb3PFVUbu10-gmixGZDeFyz5vE482NNj6jw/pub) for additional reviewing information**
 
 ## Project Overview
 
