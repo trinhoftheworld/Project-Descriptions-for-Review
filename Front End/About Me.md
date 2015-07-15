@@ -46,6 +46,11 @@ How do you add CSS to this website? Start with the forums, which are perfect for
 2. While you're playing with CSS, try experimenting with other styles! If you break something, it's not a big deal. Just undo your changes and keep playing!
 3. Head off to the team chat, and share your creation with your team! The team chat is perfect for informal conversations like this one. Check out their creations too. Do you have anything in common?
 
+## How Grading Works
+We have created a document that gives rubric specific instructions to help you grade this project.You can access the document here: [About Me - Best Practices](https://docs.google.com/document/d/1-Iapz49Mwj2L7DCuGBOimiioZFoMl9XjvdHAVwWKuQQ/pub?embedded=true)
+
+It is VERY IMPORTANT that you read this document before you begin evaluating projects. Ensure you work with the guidelines given in the document for each evaluation.
+
 ## Evaluation
 Your project will be evaluated by a Udacity reviewer for general feedback only, it will not be evaluated for meeting specific technical expectations.
 
