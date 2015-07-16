@@ -52,7 +52,7 @@ I suspect most submissions will meet specifications. This stage is intentionally
 
 Below is the Stage 5 project rubric:
 
-![rubric](http://i.imgur.com/nI8LHMa.png)
+![rubric](http://i.imgur.com/AEMyeJv.png)
 
 ### 3. If student passes, generate a “secret key”
 
