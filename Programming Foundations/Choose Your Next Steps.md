@@ -1,5 +1,7 @@
 # ![Andy](http://i.imgur.com/fdGeWES.png) Project Specification
 
+### _Please note that the rubric has changed as of 7/15/2015_
+
 This project involves students purely taking notes on [Stage 5](https://www.udacity.com/course/viewer#!/c-ud000/l-4149648704/m-3532629495)
 
 They will take lessons that involve:
@@ -50,7 +52,7 @@ The student’s web page should have a section that either explains or demonstra
 
 I suspect most submissions will meet specifications. This stage is intentionally easy.
 
-Below is the Stage 5 project rubric:
+Below is the Stage 5 project rubric (updated 7/16/2015):
 
 ![rubric](http://i.imgur.com/AEMyeJv.png)
 
