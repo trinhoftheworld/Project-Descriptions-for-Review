@@ -1,6 +1,6 @@
 # ![Andy](http://i.imgur.com/fdGeWES.png) Project Specification
 
-### _Please note that the rubric has changed as of 7/15/2015_
+### _Please note that the rubric has changed as of 7/16/2015_
 
 This project involves students purely taking notes on [Stage 5](https://www.udacity.com/course/viewer#!/c-ud000/l-4149648704/m-3532629495)
 
