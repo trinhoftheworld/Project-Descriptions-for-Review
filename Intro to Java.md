@@ -25,4 +25,4 @@ See the tester repo README for more information about grading.
 [1]: https://github.com/udacity/connect-four-tester
 
 
-**This review may take upto an hour to finish.**
+**This review may take up to an hour to finish.**
