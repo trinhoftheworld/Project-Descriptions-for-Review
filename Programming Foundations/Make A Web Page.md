@@ -55,8 +55,8 @@ Reviewer will also read notes to help ensure students have a good understanding 
 
 ## Watch Outs
 
-### Code Pen
-Students will first start with using an online tool: www.codepen.io. Most of them will be using the "Export Zip" option in Codepen and will then directly upload this zip onto our servers. Unfortunatley Codepen adds in this extra HTML code at the beginning of their code:
+### CodePen
+Students will first start with using an online tool: www.codepen.io. Most of them will be using the "Export Zip" option in CodePen and will then directly upload this zip onto our servers. Unfortunatley CodePen adds in this extra HTML code at the beginning of their code:
 
 ```
 <!DOCTYPE html>

@@ -23,7 +23,7 @@ Criteria
 
 As long as the student submits some notes in HTML, the project will pass. If the student submitted nothing, please mark the project as “Ungradable” and type in a message to the student outlining why the project is ungradable.
 
-The reviewer should comment and give at least 3 comments on student’ code. One of the comments needs to be a nitpick to help guide students on best practices for HTML coding.
+The reviewer should comment and give at least 3 comments on students’ code. One of the comments needs to be a nitpick to help guide students on best practices for HTML coding.
 
 The tone and diction of the comments should be encouraging and supportive. Feedback should be constructive and not insulting or disparaging. It’s very important that these Introduction to Programming students receive a pleasant and helpful experience with their first code review. The encouragement and guidance you will give to these students will set the entire tone throughout their experience in this Nanodegree!
 
