@@ -17,8 +17,12 @@ To run the tester, [clone the autograder repo][1], paste in the student's MyAgen
 ./gradlew
 ```
 
+
 (If you're on Windows, you need to use a backslash and run `.\gradlew` instead)
 
 See the tester repo README for more information about grading.
 
 [1]: https://github.com/udacity/connect-four-tester
+
+
+**This review may take upto an hour to finish.**
