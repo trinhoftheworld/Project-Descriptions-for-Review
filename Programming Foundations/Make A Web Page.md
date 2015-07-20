@@ -52,6 +52,9 @@ Reviewer will also read notes to help ensure students have a good understanding 
 
 * **Basic HTML and CSS knowledge**: Reviewer won't be looking for anything specific in this area, but will be providing general feedback about these two languages.
 
+The rubric that will be used is included below:
+
+![][http://i.imgur.com/fEKDPg4.png]
 
 ## Watch Outs
 
