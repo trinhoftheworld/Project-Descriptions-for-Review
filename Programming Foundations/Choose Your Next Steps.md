@@ -95,7 +95,10 @@ def generate_secret_key(appspot_id):
 ```
 
 ### 4. Write Feedback
+If the project does not meet expectations in any of the rubric categories please be very specific about what the student needs to do to pass their next next submission. Also please read through their notes and if the student shows confusion or is inaccurate, please guide the student to the correct information, either through linking or explaining.
+
 If the project meets expectations, congratulate the student! They've come a long way.
+
 
 And don't forget to include the `secret_key` and the submission URL [http://learn-2-code.appspot.com/student_submissions/](http://learn-2-code.appspot.com/student_submissions/) in the review. The first part of your review might look something like this:
 
