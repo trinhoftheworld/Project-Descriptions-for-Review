@@ -7,6 +7,7 @@ This project is the second project for Introduction to Programming Students. Ple
 
 Students will be taking notes in HTML of the content they have learned in [Stage 1](https://www.udacity.com/course/viewer#!/c-ud000/l-4148129067/m-3646748863)
 
+Reviewers are also required to answer student questions either in their code or their notes.
 ## Project Description
 
 Students are expected to take notes from the mentioned lesson above and will be exposed to basic HTML tags such as `<div>, <h1>, <p>, <b>, <em>, <span>` and basic CSS rules.
