@@ -14,7 +14,7 @@ Over the course of the program, students will build a web page.  This project is
 
 Students are expected to take notes from the mentioned lesson above and will be exposed to basic HTML tags such as `<div>, <h1>, <b>, <em>, <span>`.
 
-The reviewer is expected to read students’ notes and add any clarification or commentary on their notes
+The reviewer is expected to read students’ notes and add any clarification or commentary on their notes, this includes answering any questions the students have.
 
 The reviewer is also expected to read the students’ HTML code and provide constructive feedback on their code.
 Criteria
