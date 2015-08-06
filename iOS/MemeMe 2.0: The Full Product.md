@@ -15,13 +15,13 @@ MemeMe covers many of the major UI components found in essentially every app. It
 
 ##How Do I Complete this Project?
 1. View the detailed specifications <a href="https://docs.google.com/document/d/1G2onkzN_weWmiYErhQJw1lB9-zxM-2TQ0N5bNMAaI7I/pub?embedded=true" target="_blank">here</a>.
-2. If necessary, review <a href="https://www.udacity.com/course/viewer#!/c-ud788/l-3669378557/m-3671998538" target="_blank">Lesson 6 of UIKit Fundamentals</a> for detailed instructions.
+2. If necessary, review UIKit Fundamentals for detailed instructions.
 3. Create your app!
 
 ##Evaluation
 Your project will be evaluated by a Udacity Code Reviewer according to the rubric <a href="https://docs.google.com/document/d/1ni0X5sjS0NreQqBHJpg8Z0foAYwegfGTPPdBKTPskPI/pub?embedded=true" target="_blank">here</a>. All criteria must "meet specifications" in order to pass.
 
-**Additional features that would exceed expectations:**
+**Suggested additional features to make your app stand out:**
 
 * User can choose between different fonts.
 * App uses “Impact” font.
