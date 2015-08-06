@@ -3,7 +3,9 @@ Introduction to Programming Movie Trailer Website Guideline
 
 ## Context
 
-Students will write server-side code to store a list of their favorite movies, including box art imagery and a movie trailer URL. Students will then serve this data as a web page allowing visitors to review their movies and watch the trailers. Please note that this project has slightly different requirements than the Full Stack version of this project. The full rubric is at the bottom of this page.
+Students will write server-side code to store a list of their favorite movies, including box art imagery and a movie trailer URL. Students will then serve this data as a web page allowing visitors to review their movies and watch the trailers. Please note that this project has slightly different requirements than the Full Stack version of this project. The full rubric is at the bottom of this page. 
+
+The reviewer is expected to read students’ code and add any clarification or commentary as necessary, this includes answering any questions the students have.
 
 ## How will students complete this project? 
 1. Install [Python](https://www.python.org/) 
@@ -21,6 +23,7 @@ Students will write server-side code to store a list of their favorite movies, i
 ![Movie Trailer](https://i.imgur.com/18cp1qa.png) 
 ##Page allows users to click on a movie image to watch its trailer
 
-Rubric
-http://i.imgur.com/ivozxF9.png
-http://i.imgur.com/3S0aLG5.png
+## Rubric
+Students will see the following rubric when they submit their project
+![]http://i.imgur.com/ivozxF9.png
+![]http://i.imgur.com/3S0aLG5.png
