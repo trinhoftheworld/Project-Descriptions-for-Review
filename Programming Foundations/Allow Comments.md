@@ -43,7 +43,7 @@ The reviewer will also look at the code. They will be looking for:
   * No "magic numbers" (a magic number is a number that is used in the code
     without explanation. In these situations you should assign that number to a
     variable with a logical name)
-* Python is used for validating user input. It is not enough to use client-side validations such as form validations because not all browsers support proper form validations (ex: Safari). Furthermore, a hacker can bypass form validations by accessing a browser's Development Tools.
+* Python is used for validating user input. It is not enough to use client-side validations such as form validations because not all browsers support proper form validations (ex: Safari). Furthermore, a hacker can bypass form validations by accessing a browser's Development Tools. At a minimum if a user inputs a blank input and an error is raised, this section should pass.
 
 ## 2 - Content Review
 
