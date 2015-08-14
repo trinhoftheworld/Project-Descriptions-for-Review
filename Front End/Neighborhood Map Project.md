@@ -25,6 +25,8 @@ It is VERY IMPORTANT that you read this document before you begin evaluating pro
 
 ## Evaluation
 Your project will be evaluated by a Udacity reviewer according to the rubric below. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass. 
-![r1](http://i.imgur.com/yZUCaoi.png)
-![r2](http://i.imgur.com/NTpAQGL.png)
+![r1](http://i.imgur.com/ATBMaeB.png)
+![r2](http://i.imgur.com/3kWRbXx.png)
+![r3](http://i.imgur.com/swb68mg.png)
+![r4](http://i.imgur.com/tKxNqnR.png)
 
