@@ -12,7 +12,7 @@ This project is connected to the [Intro to HTML and CSS course](https://www.udac
 - CSS3: **Property *[some property here]* is an unknown vendor extension** when using vendor prefixed properties (like -moz-box-sizing).
 
 ## Useful Links
-[Udacity Frontend Nanodegree Style Guide](https://storage.googleapis.com/supplemental_media/udacityu/3289678549/HTML%20and%20CSS%20Style%20Guide.pdf)
+[Udacity Frontend Nanodegree Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
 
 ## How Grading Works
 
