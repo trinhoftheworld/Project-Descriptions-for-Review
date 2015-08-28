@@ -1,5 +1,4 @@
 # Mad Libs Game
---
 
 # Reviewer Instructions
 
