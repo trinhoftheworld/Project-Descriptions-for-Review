@@ -35,11 +35,11 @@ These are very beginner level students and the reviewer should not give recommen
 ### 1 - Game Review
 The reviewer will run the game and provide feedback on:
 
-* **Gane Basics**: Game has 3 or more levels. Each level contains 4 more blanks to fill in.
+* **Game Basics**: Game has 3 or more levels. Each level contains 4 more blanks to fill in.
 
-* **Begining the Game**: Immediately after running the program, user is prompted to select a difficulty level from easy / medium / hard. 
+* **Beginning the Game**: Immediately after running the program, user is prompted to select a difficulty level from easy / medium / hard. 
 
-Once a level is selected, game displays a fill-in-the-blank and a prompt to fill in the first blank.
+  Once a level is selected, game displays a fill-in-the-blank and a prompt to fill in the first blank.
 
 * **Game Play**: When player guesses correctly, new prompt shows with correct answer in the previous blank and a new prompt for the next blank
 
