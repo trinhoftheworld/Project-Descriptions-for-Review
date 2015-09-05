@@ -1,7 +1,7 @@
 # Data Wrangling - OpenStreetMap
 
 ### Data Wrangling Project Overview Document
-Review this [document](https://docs.google.com/document/d/1BXhF80-HDlczme2kL7s4t4EVfPDiCt25efZXgXrqV5k/pub?embedded=True) before you review any projects. 
++Is now available from the Description tab inside the Reviews app.
 
 ### Data Wrangling Submission Instructions for Students
 These [instructions](https://docs.google.com/document/d/1Ab7-k1YFun_GvqkKDWvAwr-t2vCZp3rNq5IEIYyyllA/pub) are student-facing. In particular, they contains instructions on getting OSM datasets using a custom query - you might encounter this in student submissions. 
