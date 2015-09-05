@@ -1,7 +1,7 @@
 # Intro to Data Science
 
 ###Intro to Data Science Project Overview Document
-Review this [document](https://docs.google.com/document/d/1dECvh8NzUielxC3Q0joWpfDxkksFNVYJD_W7qWZqZ3I/pub?embedded=True) before you review any projects. 
+Is now available from the Description tab inside the Reviews app.
 
 ###Intro to Data Science Project Description (student-facing)
 * <a href="https://docs.google.com/document/d/16T3kirC0IxvtfxlZb7n5kOz5xFF_JTwrG31J2OZj8KM/pub" target="_blank">Final Project Description</a>
