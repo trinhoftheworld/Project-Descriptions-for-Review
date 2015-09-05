@@ -1,7 +1,7 @@
 # Data Analysis with R
 
 ## Project evaluation document
-Review [this](https://docs.google.com/document/d/1igUXeEOoyddfze1EFONqVlDH_o8dwXxPEWF0rTzFdQA/pub?embedded=true) document first before you grade any Data Analysis with R projects. It might be helpful to first review the project details below, and then delve into the evaluation overview specifics.
+Is available from the Description tab inside the Reviews app.
 
 ## Sample projects - internal
 Please review carefully [these](https://drive.google.com/a/knowlabs.com/folderview?id=0B-ya9aP4zq8ZfkoybDNYYk9GLUlnY2NkWGs5TlNNZ3hlV0pVY1IyYWV4UVBqRjYyWXVkTkE&usp=drive_web) project submissions and their corresponding evaluations. You are going to need a Gmail account to open the folder and add it to your Google Drive (using the button in the top right that says "Add to Drive").  
