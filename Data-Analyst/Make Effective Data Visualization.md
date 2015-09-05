@@ -1,10 +1,10 @@
 # Data Visualization Final Project
 
 ## Evaluation Overview Document
-Review [this](https://docs.google.com/document/d/1WPf40Qqc51THNZXF6ZuwP12QiIqfv3QSThC5vHPa3h0/pub) document before you grade any Data Vis projects. It might be helpful if you first review the student-facing instructions and project description (see below) and then you read carefully into the Evaluation Overview doc. 
+Is available from the Description tab of the Reviews app. You **must** read this before evaluating projects.
 
 ## Sample projects (internal)
-Please review carefully [these](https://drive.google.com/folderview?id=0B6lqHlx9UkQ_ZzBFdm9MNjZ2SU0&usp=sharing) project submissions and their corresponding evaluations. You are going to need a Gmail account to open the folder and add it to your Google Drive (using the button in the top right that says "Add to Drive").
+Are available from the Description tab of the Reviews app. You are going to need a Gmail account to open the folder and add it to your Google Drive (using the button in the top right that says "Add to Drive").
 
 ## What is included in a submission?
 
