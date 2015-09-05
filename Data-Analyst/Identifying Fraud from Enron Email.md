@@ -1,10 +1,10 @@
 # Intro to Machine Learning Final Project
 
 ## Evaluation Overview Document
-Review [this](https://docs.google.com/document/d/1tK3JdHJe9sBP7W7aRYE5yszhfVIdG0w6JIu3ohrAjlM/pub) document first before you grade any Intro to ML projects. It might be helpful to first review the project details below, and then delve into the evaluation overview specifics. 
+Is available from the Description tab inside the Reviews app. 
 
 ## Sample Project - Internal
-Please review carefully [these](https://www.dropbox.com/sh/13iklukn0khedak/AABI0qdlZujmm7gJzV9CyfW8a?dl=0) project submissions and the corresponding evaluations. 
+Is available from the Description tab inside the Reviews app.
 
 ## How do I Complete this Project? (Student-facing)
 This project is connected to the [Intro to Machine Learning course](https://www.udacity.com/course/ud120), but depending on your background knowledge of machine learning, you may not need to take the whole thing to complete this project. 
