@@ -4,7 +4,7 @@
 
 Students will write Python code to create a [Mad Libs game](https://en.wikipedia.org/wiki/Mad_Libs), or a fill-in-the blank game. Throughout Stage 2, students learn how to build a Mad Libs style game with the instructor where a user is asked for nouns, adjectives, and verbs in order to complete a story.
 
-This time, the player is asked to fill-in-the blank based on the context of the story and not on a simple prompt for a nouns, adjectives, and verbs.
+This time, the player is asked to fill-in-the blank based on the context of the story and not on a simple prompt for nouns, adjectives, and verbs.
 
 Students will extend their basic game they built in Stage 2 by adding:
 
