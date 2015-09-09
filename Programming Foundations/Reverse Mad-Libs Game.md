@@ -1,4 +1,4 @@
-# Mad Libs Game
+# Reverse Mad-Libs Game
 
 # Reviewer Instructions
 
