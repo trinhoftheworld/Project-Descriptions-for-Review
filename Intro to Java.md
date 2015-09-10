@@ -27,7 +27,7 @@ See the tester repo README for more information about grading.  Note that studen
 
 Here are some tips you'll want to keep in mind when reviewing projects.
 
-### Win Percentages (Rubric: Code Functionality)
+### Win percentages (Rubric: Code Functionality)
 
 If a student implements effective `iCanWin` and `theyCanWin` logic and nothing further, their win percentages should be approximately:
 
@@ -35,7 +35,7 @@ If a student implements effective `iCanWin` and `theyCanWin` logic and nothing f
 * 80% vs Beginner Agent
 * 50% vs Brilliant Agent
 
-If a student's win percentages are significantly lower than that, this is a strong indication that the student has mistakes in their move logic.  Be sure to find these: they need to be corrected *even if the student's win percentages still meet specifications.*
+If a student's win percentages are significantly lower than that, this is a strong indication that the student has mistakes in their move logic. Be sure to find these: they need to be corrected *even if the student's win percentages still meet specifications.*
 
 ### MyAgent should work as both the red and yellow player (Rubric: Code Functionality)
 
@@ -43,7 +43,7 @@ Each agent instance contains an `iAmRed` boolean parameter that indicates whethe
 
 ### Repetitive code and use of loops (Rubric: Use of Control Flow Statements)
 
-Many students run nested for loops in their win-finding logic to examine each slot on the board.  For each slot, there are thirteen configurations around it that could imply a win (four patterns each for horizontal and the two diagonal directions, and one vertical pattern).  A student writing 13 if statements to check each of these cases in turn is a baseline for passing provided they do so in a neat and organized way.
+Many students run nested for loops in their win-finding logic to examine each slot on the board. For each slot, there are thirteen configurations around it that could imply a win (four patterns each for horizontal and the two diagonal directions, and one vertical pattern). A student writing 13 `if` statements to check each of these cases in turn is a baseline for passing provided they do so in a neat and organized way.
 
 ### Duplicate `iCanWin` and `theyCanWin` implementations (Rubric: Definition and Use of Methods)
 
