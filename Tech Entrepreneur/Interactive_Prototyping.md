@@ -21,18 +21,17 @@ This project has two main components to review: the submitted PDF document that 
 
 The reviewer is expected to fully read the student's progression through their design and examine the design prototype, paying attention to things such as spelling, grammer, content, and clarity, as well as providing constructive feedback that will further enhance the student's learning.
 
-<!--Here is an example <project href = ...>
+<!--Here is an example <project href = -->
 
 ## Project Specification
 
 ### 1 - Content Review
 
 #### Problem description
-The student is expected to provide a clear description of a problem that their app helps to solve. The student needs to make a clear difference between the existing problem, how/why the problem occurs, and what the app provides that is new or better that affects how/why the problem occurs.
-
+The student is expected to provide a clear description of a problem that their app helps to solve. The student needs to make a clear difference between the existing problem, how/why the problem occurs, and what the app provides that is new or better.
 
 #### How the problem and design interact
-Students are expected to provide both a low-fidelity and medium fidelity prototype. The low-fidelity prototype will be needed for the student to get user input and modify their design so the medium-fidelity prototype is most effective.
+Students are expected to provide both a low-fidelity and medium-fidelity prototype. The low-fidelity prototype will be needed for the student to get user input and modify their design up to a medium-fidelity prototype.
 
 For the low-fidelity prototype the student may submit pictures or scanned drawings. Medium-fidelity prototypes will be submitted as an InVision link. To better help distinguish the difference between low and medium-fidelity prototypes consider the following:
 
@@ -47,11 +46,11 @@ When the student identifies key items that were brought up during the user resea
 #### The provided medium-fidelity prototype has a clear user flow and has clickable/interactive features
 When evaluating the student's InVision prototype first approach it as a potential user. What does the prototype communicate to you? Is the purpose of the app clear? Are their any interaction points that do not work or that lead you to the wrong place (i.e. you click on Settings and it takes you to the Home screen)? Can you navigate the app easily? If you were a user that wanted to perform a key task in the app can you reasonably believe you could do it without guidance?
 
-After you analyze the app as a user then go ahead and proceed and consider the user flow as a whole. Was the progression smooth? Is the order of the app scenes appropriate? Should more/less scences be included to either make the app content less clutterd or consolidate content and focus things on one or two key app scenes?
+After you analyze the app as a user then go ahead and proceed and consider the user flow as a whole. Was the progression smooth? Is the order of the app scenes appropriate? Should more/less scenes be included to make the app content less cluttered? Is content consistent and are there focal points per app scene?
 
 ### 2 - Plan Overview
 
-The purpose of this project is to provide students real-life experience starting from a basic sketch of how their app will work and then using feedback from user research taking the design and workings of the app to the next layer of complexity. Students need to demonstrate a focused effort obtaining user feedback. If you are concerned that a student picked users that do not fit the problem description they provided please comment and tell the student that. When the student takes the user research and transforms that into the medium-fidelity prototype encourage the student's attention to detail and how they updated aspects of the app to better accomodate users.
+The purpose of this project is to provide students real-life experience starting from a basic sketch of how their app will function. Feedback from user research will drive the design and workings of the app to the next level of fidelity. Students need to demonstrate a focused effort obtaining user feedback. If you are concerned that a student picked users that do not fit the problem description they provided, please comment and tell the student. When the student takes the user research and transforms that into the medium-fidelity prototype, encourage the student to pay attention to detail and how they can update aspects of the app to better accomodate their users.
 
 #### Use of Proper Spelling/Grammer
 
