@@ -30,7 +30,7 @@ The reviewer is expected to fully read the student's prepared marketing plan, pa
 Students have been encouraged to use a template value proposition created by Geoffrey Moore. You can find the template [here.] 
 (https://docs.google.com/presentation/d/1znQNAigOifBte1c2BC8q-RsD9O_6c3p9dUL-URkpbSM/edit#slide=id.g66e7ffd40_0_13)
 
-The student's value proposition must communicate both the problem/need present in the market and how the product addresses that problem/need. Since this is the central concept behind the marketing plan please take a critical look at the value proposition and determine if the student is _creating_ a problem for a solution they have, or if their product addresses and _solves_ a problem.
+The student's value proposition must communicate both the problem/need present in the market and how the product addresses that problem/need. Since this is the central concept behind the marketing plan please take a critical look at the value proposition and determine if the student is _creating_ a problem for a solution they have, or if their product addresses and _solves_ a problem. They should be addressing a problem that exists in the market.
 
 #### Competitive Analysis
 The student is to conduct a competitive analysis using a 2x2 grid such as the one provided [here.](https://docs.google.com/presentation/d/1znQNAigOifBte1c2BC8q-RsD9O_6c3p9dUL-URkpbSM/edit#slide=id.g66e7ffd40_0_0)
@@ -80,7 +80,11 @@ Landing Page:
 * description of what value the product holds for customers
 
 ### 2 - Plan Overview
-As you review the student's marketing plan please address both the individual requirements for each section while additionally keeping the broad scope of the product in mind. For example, a student may have an awesome value proposition but that is not communicated well on their landing page. How would you advise that student to best modify the landing page? Overall, make sure each component of the marketing plan reasonably advances the student's understanding of the market they serve, their place in the market, and how to create a space in the market to attract customers.
+As you review the student's marketing plan please address both the individual requirements for each section while additionally keeping the broad scope of the product in mind. 
+
+For example, a student may have an awesome value proposition but the value proposition is not communicated well on their landing page. How would you advise that student to best modify the landing page? 
+
+Overall, make sure each component of the marketing plan reasonably advances the student's understanding of the market they serve, their place in the market, and how to create a space in the market to attract customers.
 
 ### 2. Writeup Review
 
