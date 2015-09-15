@@ -28,20 +28,30 @@ The reviewer is expected to fully read the student's progression through their d
 ### 1 - Content Review
 
 #### Problem description
+The student is expected to provide a clear description of a problem that their app helps to solve. The student needs to make a clear difference between the existing problem, how/why the problem occurs, and what the app provides that is new or better that affects how/why the problem occurs.
 
 
 #### How the problem and design interact
+Students are expected to provide both a low-fidelity and medium fidelity prototype. The low-fidelity prototype will be needed for the student to get user input and modify their design so the medium-fidelity prototype is most effective.
+
+For the low-fidelity prototype the student may submit pictures or scanned drawings. Medium-fidelity prototypes will be submitted as an InVision link. To better help distinguish the difference between low and medium-fidelity prototypes consider the following:
+
+* Low-fidelity prototypes consist of drawings of each app scene with the design and example content clearly provided. For a given app scene a list of interaction points are to be provided to describe how users would interact with the design. The purpose of the low-fidelity prototype is to get beginning results from user research so that the design may be iterated upon to test improvements.
+
+* Medium-fidelity prototypes are the result of the progressions that took place with the user research and the low-fidelity prototypes. The medium-fidelity prototype needs to be interactive and allow users to click or tap on elements on the screen to allow navigation between scenes and other basic app operations. The medium-fidelity prototype is useful in user research to determine how potential users will interact with the app given no guidance from the researcher.
 
 
 #### If results from the UX research is reflected in the updated prototypes
-
+When the student identifies key items that were brought up during the user research, please be sure to compare their low and medium-fidelity prototypes to determine if they made changes based on feedback. Ask yourself these questions. Did the student's design change? Is there a clear understanding on the student's side that aspects of their low-fidelity prototype were flawed and were then improved upon with the medium-fidelity one? Be sure to comment whenever a student clearly identifies an issue a user brought up but then their prototype updates never addressed the issue.
 
 #### The provided medium-fidelity prototype has a clear user flow and has clickable/interactive features
+When evaluating the student's InVision prototype first approach it as a potential user. What does the prototype communicate to you? Is the purpose of the app clear? Are their any interaction points that do not work or that lead you to the wrong place (i.e. you click on Settings and it takes you to the Home screen)? Can you navigate the app easily? If you were a user that wanted to perform a key task in the app can you reasonably believe you could do it without guidance?
 
+After you analyze the app as a user then go ahead and proceed and consider the user flow as a whole. Was the progression smooth? Is the order of the app scenes appropriate? Should more/less scences be included to either make the app content less clutterd or consolidate content and focus things on one or two key app scenes?
 
 ### 2 - Plan Overview
 
-Reviewers will read the marketing plan and provide feedback on:
+The purpose of this project is to provide students real-life experience starting from a basic sketch of how their app will work and then using feedback from user research taking the design and workings of the app to the next layer of complexity. Students need to demonstrate a focused effort obtaining user feedback. If you are concerned that a student picked users that do not fit the problem description they provided please comment and tell the student that. When the student takes the user research and transforms that into the medium-fidelity prototype encourage the student's attention to detail and how they updated aspects of the app to better accomodate users.
 
 #### Use of Proper Spelling/Grammer
 
@@ -56,7 +66,7 @@ We are encouraging students to develop professional-level writing skills for the
 
 #### Clarity of Writing
 
-The student should accurately and clearly describe specific aspects and details of the marketing plan. Please comment whenever the student's use of words causes confusion.
+The student should accurately and clearly describe specific aspects and details of the prototyping process and their user research. Please comment whenever the student's use of words causes confusion.
 
 ## Watch Outs
 
