@@ -26,6 +26,14 @@ This project require students to come up with a plan to make money off their pro
 
 ## Project Specification
 
+### Note on Word Limits
+
+Summaries will have word limits, usually 250 words or 100 words.
+
+Please count how many words the student uses for each summary. We want to teach the student that she needs to write succinctly. 
+
+Therefore if the student goes over her word limit by a couple of words, it is okay. Do not fail the student if she went over the word limit by 5 words. There is a hard number though and if the student is over 15 words in her summary (such as 115 or 265) do not pass the student. Suggest to the student how she can shorten her summary.
+
 ### 1 - Content Review
 
 #### Written Summary

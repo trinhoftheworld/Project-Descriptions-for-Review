@@ -24,7 +24,6 @@ The reviewer is expected to fully read the student's prepared marketing plan, pa
 ## Project Specification
 
 ### 1 - Content Review
-
 	
 #### Value Proposition
 Students have been encouraged to use a template value proposition created by Geoffrey Moore. You can find the template [here.] 

@@ -9,7 +9,7 @@ Course materials can be found [here.](https://www.udacity.com/course/viewer#!/c-
 
 ## Project Description
 
-This project require students to design a product people will love. They are expected to run a design sprint in order to quickly validate their idea with real customers. Students need to submit a writeup that contains:
+This project require students to design a product people will love. Students are expected to run a design sprint in order to quickly validate their idea with real customers. Students need to submit a writeup that contains:
 
 * Product Idea Summary (max 100 words)
 * Design Sprint Deliverables (e.g., wireframes, mockups, or low-fidelity prototypes of their product idea)
@@ -20,13 +20,34 @@ This project require students to design a product people will love. They are exp
 
 ## Project Specification
 
-**This is important**: do not grade based on the student's idea! Try to limit your bias at the beginning and do no pass judgment solely on the student's idea. You should only grade students on their ability to follow the steps and concepts they've learned in class. It does not matter what reviewers think of the idea - it's about finding what the customer thinks of the idea. Reviewers should help reinforce this mentality throughout the review.
+### Important Points
+
+#### Eliminate Bias
+Before you read even one sentence in the student's writeup, go directly to the student's mockups or prototype and evaluate the student's mockup or prototype first! Why? You are evaluating how well the student's mockups or prototype can allow users easily determine 
+
+1. what the product is
+2. what the problem it solves
+3. how they would use it
+
+If you read the whole summary of what the product does, you may bias yourself because you already know the the product is supposed to do. Therefore, **first** look at the mockups and evaluate whether you can determine what the product is, what the problem it solves, and how you would use the product without bias.
+
+#### Do Not Judge Ideas
+Do not grade based on the student's idea! Try to limit your bias at the beginning and do no pass judgment solely on the student's idea. You should only grade students on their ability to follow the steps and concepts they've learned in class. It does not matter what reviewers think of the idea - it's about finding what the customer thinks of the idea. Reviewers should help reinforce this mentality throughout the review.
 
 ### 1 - Content Review
 
+### Note on Word Limits
+
+Summaries will have word limits, usually 250 words or 100 words.
+
+Please count how many words the student uses for each summary. We want to teach the student that she needs to write succinctly. 
+
+Therefore if the student goes over her word limit by a couple of words, it is okay. Do not fail the student if she went over the word limit by 5 words. There is a hard number though and if the student is over 15 words in her summary (such as 115 or 265) do not pass the student. Suggest to the student how she can shorten her summary.
+
+
 #### Written Summary
 
-The summary needs to clearly articulate the problem the student is trying to solve and outline the solution that the student came up with during the design sprint. 
+The summary needs to clearly articulate the problem the student is trying to solve and outline the solution that the student came up with during the design sprint.
 
 #### Design Sprint Prototype
 
@@ -38,14 +59,14 @@ Furthermore, the student must submit their wireframe, mockups, or low fidelity p
 
 #### User Feedback Summary
 
-Be very critical on the writeup for user feedback. The student should write about what they learned from showing their designs to real users. Students should be able to clearly identify:
+Be very critical on the writeup for user feedback. The student should write about what she learned from showing their designs to real users. Students should be able to clearly identify:
 
 * key learnings
 * key insights 
 
 gleaned from user testing and feedback.
 
-Students are encouraged to answer some of these questions in their summary as well:
+Students need to answer 3 of these questions in their summary as well:
 
 * What do users like?
 * Do users know what the product is with little prompting?
