@@ -82,7 +82,7 @@ Students should create metrics thats track key features and usage of the product
 * Engagement (ex: user activity)
 * Adoption (ex: new users, usage)
 * Retention (ex: % active/unit of time)
-* Tast Success (ex: time, completed tasks, errors)
+* Task Success (ex: time, completed tasks, errors)
 
 ### 2. Writeup Review
 
