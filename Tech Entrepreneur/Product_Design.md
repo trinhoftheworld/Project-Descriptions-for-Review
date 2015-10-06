@@ -57,6 +57,23 @@ Furthermore, the student must submit their wireframe, mockups, or low fidelity p
 
 ![](http://i.imgur.com/AfPnNT5.png)
 
+#### Design Sprint Challenge Statement
+
+The statement should:
+
+1) Have a clear user defined
+3) Have a clear statement to what the user will be doing with the product
+
+At a higher level, the design challenge statement should help the student answer one of two questions:
+
+1) What are you missing that you need critically?
+
+2) What is the riskiest decision or hypothesis that you want to test with users?
+
+As long as the statement answers one of those two questions, it's fine.
+
+Here are critical questions a team can ask that can drive their [design sprint] (https://docs.google.com/document/d/1BgyQ8MOru94b54o0fPmw8k5jIiW417GE02Pr_JG0YII/pub)
+
 #### User Feedback Summary
 
 Be very critical on the writeup for user feedback. The student should write about what she learned from showing their designs to real users. Students should be able to clearly identify:
@@ -72,7 +89,6 @@ Students need to answer 3 of these questions in their summary as well:
 * Do users know what the product is with little prompting?
 * How did users describe the product?
 * What will you change based on where users got confused, did something unexpected, or asked for additional features? 
-
 
 #### Metrics
 
