@@ -66,9 +66,8 @@ The statement should:
 
 At a higher level, the design challenge statement should help the student answer one of two questions:
 
-1) What are you missing that you need critically?
-
-2) What is the riskiest decision or hypothesis that you want to test with users?
+- What are you missing that you need critically?
+- What is the riskiest decision or hypothesis that you want to test with users?
 
 As long as the statement answers one of those two questions, it's fine.
 
