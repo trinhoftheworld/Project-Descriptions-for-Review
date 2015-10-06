@@ -61,8 +61,8 @@ Furthermore, the student must submit their wireframe, mockups, or low fidelity p
 
 The statement should:
 
-1) Have a clear user defined
-3) Have a clear statement to what the user will be doing with the product
+- Have a clear user defined
+- Have a clear statement to what the user will be doing with the product
 
 At a higher level, the design challenge statement should help the student answer one of two questions:
 
