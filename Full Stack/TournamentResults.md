@@ -15,7 +15,7 @@ For complete project details, make sure you check out <a href="https://www.udaci
 
 The rubric specifies that the code "makes use of query parameters appropriately to protect against SQL injection attacks."
 This means that students should use the `execute` method, not string concatenation or interpolation to assemble their queries.
-Refer to the the [psychopg docs](http://initd.org/psycopg/docs/usage.html#the-problem-with-the-query-parameters) for why.
+Refer to the [psychopg docs](http://initd.org/psycopg/docs/usage.html#the-problem-with-the-query-parameters) for why.
 
 This does __NOT__ mean that students should use the Bleach library to sanitize inputs.
 Since this project doesn't involve HTML and the database doesn't store HTML there is no good reason to use Bleach.
