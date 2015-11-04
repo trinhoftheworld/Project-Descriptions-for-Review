@@ -60,5 +60,5 @@ In addition to looking at the gameplay, students write, their project reviewer w
 
 The rubric that will be used is included below:
 
-![](http://i.imgur.com/c9OZ6LT.png)
-![](http://i.imgur.com/sxyzuXZ.png)
+![](http://imgur.com/BmwdMbQ.png)
+![](http://i.imgur.com/WHHtkZF.png)
