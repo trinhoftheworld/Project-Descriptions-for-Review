@@ -36,7 +36,7 @@ How do you add CSS to this website? Start with the forums, which are perfect for
 
 ###How to Complete Step 5
 1. Open styles.css in your text editor.
-2. You should see a few blocks of code. Find the block that starts with `img.my-picture` (line 73). This block of CSS styles your picture in the middle of the page.
+2. You should see a few blocks of code. Find the block that starts with `.my-picture` (line 81). This block of CSS styles your picture in the middle of the page.
 3. See how there's a line that says `width: 100%;`? This style says that the picture should be displayed as large as possible inside its container on the page. Right now, its container is that dark blue bar, so the image is trying to take up as much space as it can inside.
 4. Change `width` to `max-width`. `max-width` sets a boundary on how large an image can be without *actually* resizing the image. In other words, `max-width: 100%;` will prevent the image from overflowing the dark blue bar, but it won't force the image to expand its width past its natural width.
 5. Refresh the page and see what happens!
