@@ -25,5 +25,5 @@ The reviewer is expected to read students’ code and add any clarification or c
 
 ## Rubric
 Students will see the following rubric when they submit their project
-![](http://i.imgur.com/jlcpmz6.png)
-![](http://i.imgur.com/28AilYv.png)
+![](http://i.imgur.com/pgKgLBy.png)
+![](http://i.imgur.com/brwwHJG.png)
