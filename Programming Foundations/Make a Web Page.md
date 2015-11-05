@@ -54,7 +54,7 @@ Reviewer will also read notes to help ensure students have a good understanding 
 
 The rubric that will be used is included below:
 
-![rubric](http://i.imgur.com/fEKDPg4.png)
+![rubric](http://i.imgur.com/CFH8Ibj.png)
 
 ## Watch Outs
 
