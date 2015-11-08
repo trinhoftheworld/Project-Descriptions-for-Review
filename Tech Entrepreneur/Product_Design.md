@@ -29,7 +29,11 @@ Before you read even one sentence in the student's writeup, go directly to the s
 2. what the problem it solves
 3. how they would use it
 
-If you read the whole summary of what the product does, you may bias yourself because you already know the the product is supposed to do. Therefore, **first** look at the mockups and evaluate whether you can determine what the product is, what the problem it solves, and how you would use the product without bias.
+If you read the whole summary of what the product does, you may bias yourself because you already know what the product is supposed to do. Therefore, **first** look at the mockups and evaluate whether you can determine what the product is, what the problem it solves, and how you would use the product without bias.
+
+Make sure to look at the screens ONE screen at a time. If you were a user, would you be able to figure out what the app is about on the very first home screen?
+
+If you cannot figure out the app on the very first home screen, then the mockups do not meet specifications.
 
 #### Do Not Judge Ideas
 Do not grade based on the student's idea! Try to limit your bias at the beginning and do no pass judgment solely on the student's idea. You should only grade students on their ability to follow the steps and concepts they've learned in class. It does not matter what reviewers think of the idea - it's about finding what the customer thinks of the idea. Reviewers should help reinforce this mentality throughout the review.
