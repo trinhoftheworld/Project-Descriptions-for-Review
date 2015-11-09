@@ -46,9 +46,9 @@ You should preface all of your comments with either:
 
 * Awesome
 * Suggestion
-* Critical
+* Required
 
-where `Critical` are the areas that the student needs to change in order to pass their next submission.
+where `Required` are the areas that the student needs to change in order to pass their next submission.
 
 Here is an example of a PDF Annotation that you should emulate: [Product Design Sample PDF Annotation](https://drive.google.com/file/d/0B2nHT38-eE13UGMxRjNIUGo4RGc/view?usp=sharing)
 
