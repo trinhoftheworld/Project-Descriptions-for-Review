@@ -38,6 +38,20 @@ If you cannot figure out the app on the very first home screen, then the mockups
 #### Do Not Judge Ideas
 Do not grade based on the student's idea! Try to limit your bias at the beginning and do no pass judgment solely on the student's idea. You should only grade students on their ability to follow the steps and concepts they've learned in class. It does not matter what reviewers think of the idea - it's about finding what the customer thinks of the idea. Reviewers should help reinforce this mentality throughout the review.
 
+#### PDF Annotations are Required
+
+You need to go over the students' PDF and write in detailed comments about their writeup. We suggest you use the Kami plugin and load up your PDF file for review through Google Drive (Kami gets a little buggy if you load up the PDF directly on your computer).
+
+You should preface all of your comments with either:
+
+* Awesome
+* Suggestion
+* Critical
+
+where `Critical` are the areas that the student needs to change in order to pass their next submission.
+
+Here is an example of a PDF Annotation that you should emulate: [Product Design Sample PDF Annotation](https://drive.google.com/file/d/0B2nHT38-eE13UGMxRjNIUGo4RGc/view?usp=sharing)
+
 ### 1 - Content Review
 
 ### Note on Word Limits
