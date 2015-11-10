@@ -50,7 +50,7 @@ You should preface all of your comments with either:
 
 where `Required` are the areas that the student needs to change in order to pass their next submission.
 
-Here is an example of a PDF Annotation that you should emulate: [Product Design Sample PDF Annotation](https://drive.google.com/file/d/0B2nHT38-eE13UGMxRjNIUGo4RGc/view?usp=sharing)
+Here is an example of a PDF Annotation that you should emulate: [Product Design Sample PDF Annotation](https://drive.google.com/file/d/0B2nHT38-eE13Zm5IcUJVendqbTg/view?usp=sharing)
 
 ### 1 - Content Review
 
