@@ -100,7 +100,7 @@ Be very critical on the writeup for user feedback. The student should write abou
 
 gleaned from user testing and feedback.
 
-Students need to answer 3 of these questions in their summary as well:
+Students need to answer *all* of these questions in their summary as well:
 
 * What do users like?
 * Do users know what the product is with little prompting?
