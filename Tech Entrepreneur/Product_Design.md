@@ -103,9 +103,9 @@ gleaned from user testing and feedback.
 Students need to answer *all* of these questions in their summary as well:
 
 * What do users like?
-* Do users know what the product is with little prompting?
-* How did users describe the product?
-* What will you change based on where users got confused, did something unexpected, or asked for additional features? 
+* Does the user understand the app's purpose?
+* Does the user know how to navigate the app without prompting?
+* How do users describe the product? 
 
 #### Metrics
 
