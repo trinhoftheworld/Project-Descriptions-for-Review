@@ -37,15 +37,24 @@ Reviewer will also read notes to help ensure students have a good understanding 
 
 * **Understanding of Structured Documents**: Notes should demonstrate an understanding of what it means for computer code to be "structured."
 
+  *  The student must talk about the parent-child relationships that elements have for each other. 
+
   * The student needs to talk about the Document Object Model (DOM) and how the HTML elements can be organized in a “tree-like” structure where one element can contain other elements and how a programmer can traverse the DOM tree to navigate to any element in the DOM.
 
-* **Learning Resources**: Notes should contain at least one link to an external learning resource such as Udacity's forums or Stack Overflow
+* **The Importance of Avoiding Repetition**: Notes should contain some explanation of why it's important to avoid repetition when coding.
+
+  * Students need to explain the BENEFITS of avoiding repetition. They need to explicitly and clearly answer this question on why it’s important for programmers to avoid repetitive code and tasks. Students should be able to answer some of these questions:
+  
+      * Can programmers save time?
+      * Can programmers avoid copy and paste errors and other syntactic mistakes?
+      * Can programmers develop their code more efficiently?
+      * Can programmers maintain their code more effectively?
 
 * **Basic HTML and CSS knowledge**: Reviewer won't be looking for anything specific in this area, but will be providing general feedback about these two languages.
 
 The rubric that will be used is included below:
 
-![rubric](http://i.imgur.com/CFH8Ibj.png)
+![rubric](http://i.imgur.com/fEKDPg4.png)
 
 ## Watch Outs
 
@@ -96,4 +105,3 @@ Obviously this HTML file fails HTML validation, but for the sake of delivering a
 ### HTML validation
 
 If the student does not add a character encoding in the HTML such as `<meta charset="UTF-8">`, your HTML validator might report an error, but on the public website: http://validator.w3.org/, the validator does not throw an error if the character set is missing. To be fair for students, if the only validation error that shows up is the character encoding, do not fail the student and remind the student to add in the character encoding for cross-language compatibility.
-
