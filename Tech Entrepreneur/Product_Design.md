@@ -52,6 +52,39 @@ where `Required` are the areas that the student needs to change in order to pass
 
 Here is an example of a PDF Annotation that you should emulate: [Product Design Sample PDF Annotation](https://drive.google.com/file/d/0B2nHT38-eE13Zm5IcUJVendqbTg/view?usp=sharing)
 
+#### Required comments in your annotation should be very prescriptive
+
+In order to clearly communicate to students what they need to exactly do in order to meet specifications on their next submission, all required comments should be very prescriptive and should tell the student what they exactly need to do in order to meet specifications.
+
+Here is an example:
+
+A student's Design Sprint challenge statement is not complete. The ideal way to help the student is to say exactly what the student needs to write in order to write up a complete Design Sprint challenge statement. 
+
+Here is an excellent example that one of our reviewers wrote:
+
+> Your Sprint Challenge should articulate the challenge you will address during the sprint clearly enough so that someone who is not familiar with your product could understand what you are trying to do. Keep your focus on your user (specify the targeted user--which you did well in your first version). You should also include the target launch and platform information from your first Challenge Statement. I hope this explanation adds clarity to the expectation for your Challenge Statement. To summarize, here is what you need to do in your Challenge Statement:
+
+> State an actionable challenge that your team will address during the sprint
+
+> Define your user
+
+> Define what the user should do with your app
+
+> Include a specific launch time stamp
+
+> Specify the product platform
+
+An example of a non-prescriptive comment would be:
+
+>  The challenge statement is
+fundamentally about the design of the app. Here you talk
+about markets, needs, and data. How do these things
+relate to your design? It is absolutely great to be thinking
+about that right now but how did you use the design sprint
+to design your app to answer these questions?
+
+The statement above is more of a critical statement and critical statements should be reserved for `suggestions` rather than `required` comments.
+
 ### 1 - Content Review
 
 ### Note on Word Limits
