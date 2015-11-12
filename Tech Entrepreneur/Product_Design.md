@@ -36,7 +36,7 @@ Make sure to look at the screens ONE screen at a time. If you were a user, would
 If you cannot figure out the app on the very first home screen, then the mockups do not meet specifications.
 
 #### Do Not Judge Ideas
-Do not grade based on the student's idea! Try to limit your bias at the beginning and do no pass judgment solely on the student's idea. You should only grade students on their ability to follow the steps and concepts they've learned in class. It does not matter what reviewers think of the idea - it's about finding what the customer thinks of the idea. Reviewers should help reinforce this mentality throughout the review.
+Do not grade based on the student's idea! Try to limit your bias at the beginning and do not pass judgment solely on the student's idea. You should only grade students on their ability to follow the steps and concepts they've learned in class. It does not matter what reviewers think of the idea - it's about finding what the customer thinks of the idea. Reviewers should help reinforce this mentality throughout the review.
 
 #### PDF Annotations are Required
 
