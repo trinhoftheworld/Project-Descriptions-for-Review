@@ -140,6 +140,13 @@ Students need to answer *all* of these questions in their summary as well:
 * Does the user know how to navigate the app without prompting?
 * How do users describe the product? 
 
+The student's write up should be very clear and very prescriptive to improve their write up. The reviewer should suggest the student to write in this format:
+
+* Users liked....
+* Users understood how to navigate the app without prompting (OR) Users had trouble navigating from the home screen to the pickup screen....
+* Users described the product as ...
+* Users understood the app's purpose to be a tool...
+
 #### Metrics
 
 Students should create metrics thats track key features and usage of the product instead of vanity metrics such as "downloads per week." It's very important at the early stage of their product design, students should track how well their users are successfully using their product. Students are highly encouraged to use the HEART framework they learned from the Product Design course:
