@@ -65,15 +65,25 @@ Make sure that students define appropriate KPIs that are well justified with the
 
 Further explanations about KPIs can be found here in this [video morsel](https://www.udacity.com/course/viewer#!/c-ud518-nd/l-4638318691/e-4643418871/m-4643418872)
 
-<u>*Goals*</u>
+**Example**
 
-Furthermore, the student should explicitely write their KPI goals over some period of time such as 1 month, 3 months, 6 months, 1 year, etc. Below are examples:
+Let's break down the KPI "Gain 10% new paying customers every month" to clearly define what is a metric, what is the KPI, what is the goal this KPI is driving. Let's work backwards and think of our goal first:
 
-* More than YY% of your users are paying customers for any given month
-* Number of paid subscriptions is growing week over week by ZZ%
-* Each user brings in $XXX.XX month in ad revenue a month
-* One out of every XYZ customers will buy a product/service through your affiliate network whenever she uses your app.
-* More than YY% of your users will buy credits through your game for every X plays.
+**Goal:** Gain 1000 paying customers by June, 2016
+
+This tells us that we want to have 1000 paying customers by June, 2016. The more paying customers we have means that we are driving revenue. Notice how we add in a time to complete this goal. We are binding this goal to a time to ensure that we stay accountable and not waste time to growing 1000 customers by June, 2016. Goals need to be time-bound.
+
+How will we measure progress up to June, 2016? We need a metric that can help us measure the number of paying customers in any given month.
+
+**Metric:** Percent of Paying Customers for any given month
+
+This is the actual value that we can objectively measure. We will use this metric in order to create our KPI.
+
+**KPI:** Grow 10% new Paying Customers every month
+
+In order to grow our paying customer base to 1000 by June, 2016, we want to see how well we are growing paying customer base every month. This KPI tells us that we want to grow our customer base by 10% every month. We assume that we have enough total users that can convert to 1000 paying customers by June, 2016.
+
+Therefore the KPI is a measurement of progress or a milestone that we can constantly check every month to ensure that we are going in the right direction to achieve our goal of attaining 1000 paying customers by June, 2016.
 
 #### Plan B
 
