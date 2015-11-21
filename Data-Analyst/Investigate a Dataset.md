@@ -47,7 +47,7 @@ For the final project, you will conduct your own data analysis and create a file
 Choose one of the following datasets to analyze for your project:
 
 * [Titanic Data](https://www.udacity.com/api/nodes/5420148578/supplemental_media/titanic-datacsv/download) - Contains demographics and passenger information of the 2224 passengers and crew on board the Titanic. You can view a description of this dataset on [the Kaggle website](https://www.kaggle.com/c/titanic/data), where the data was obtained.
-*     [Baseball Data](http://www.seanlahman.com/baseball-archive/statistics/) - A data set containing complete batting and pitching statistics from 1871 to 2014, plus fielding statistics, standings, team stats, managerial records, post-season data, and more. This dataset contains many files, but you can choose to analyze only the one(s) you are most interested in.
+* [Baseball Data](http://www.seanlahman.com/baseball-archive/statistics/) - A data set containing complete batting and pitching statistics from 1871 to 2014, plus fielding statistics, standings, team stats, managerial records, post-season data, and more. This dataset contains many files, but you can choose to analyze only the one(s) you are most interested in.
 
     Choose the comma-delimited version, which contains CSV files.
     
