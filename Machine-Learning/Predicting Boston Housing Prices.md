@@ -49,7 +49,7 @@ You can package these two files as a single zip and submit it.
 - Look at the model complexity graph. How do the training and test error relate to increasing model complexity? Based on this relationship, which model (max depth) best generalizes the dataset and why?
 
 ### 4) Model Prediction
-- Model makes predicted housing price with detailed model parameters (max depth) reported. Note due to the small randomization of the code it is recommended to run the program several times to identify the most common/reasonable price/model complexity
+- Model makes predicted housing price with detailed model parameters (max depth) reported using grid search. Note due to the small randomization of the code it is recommended to run the program several times to identify the most common/reasonable price/model complexity
 - Compare prediction to earlier statistics and make a case if you think it is a valid model.
 
 ### Evaluation
