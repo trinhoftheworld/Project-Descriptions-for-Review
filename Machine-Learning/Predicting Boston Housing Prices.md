@@ -31,27 +31,26 @@ You can package these two files as a single zip and submit it.
 
 ### 1) Statistical Analysis and Data Exploration
 
-- Number of data points?
+- Number of data points (houses)?
 - Number of features?
 - Minimum and maximum housing prices?
 - Mean and median Boston housing prices?
 - Standard deviation?
 
 ### 2) Evaluating Model Performance
-- Which measure of model performance is best to use for regression and predicting Boston housing data? Why is this measurement most appropriate? Why might the other measurements not be appropriate here?
-- Why is it important to split the data into training and testing data? What happens if you do not do this?
-- Which cross validation technique do you think is most appropriate and why?
+- Which measure of model performance is best to use for predicting Boston housing data and analyzing the errors? Why do you think this measurement most appropriate? Why might the other measures not be appropriate here?
+- Why is it important to split the Boston housing data into training and testing data? What happens if you do not do this?
 - What does grid search do and why might you want to use it?
+- Why is cross validation useful and why might we use it with grid search?
 
 ### 3) Analyzing Model Performance
 - Look at all learning curve graphs provided. What is the general trend of training and testing error as training size increases?
 - Look at the learning curves for the decision tree regressor with max depth 1 and 10 (first and last learning curve graphs). When the model is fully trained does it suffer from either high bias/underfitting or high variance/overfitting?
-- Look at the model complexity graph. How do the training and test error relate to increasing model complexity?
-Based on this relationship, which model (max depth) best generalizes the dataset and why?
+- Look at the model complexity graph. How do the training and test error relate to increasing model complexity? Based on this relationship, which model (max depth) best generalizes the dataset and why?
 
 ### 4) Model Prediction
-- Model makes predicted housing price with detailed model parameters
-- Compare prediction to earlier statistics
+- Model makes predicted housing price with detailed model parameters (max depth). Note due to the small randomization of the code it is recommended to run the program several times to identify the most common/reasonable price/model complexity
+- Compare prediction to earlier statistics and make a case if you think it is a valid model.
 
 ### Evaluation
 
