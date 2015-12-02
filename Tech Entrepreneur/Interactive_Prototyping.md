@@ -63,6 +63,8 @@ We are encouraging students to develop professional-level writing skills for the
 * Subject-verd disagreements
 * Apostrophe usage
 
+**Important**: Students should write in full sentences! Students should communicate their complete clearly and concisely as much as possible by using fully complete sentences.
+
 #### Clarity of Writing
 
 The student should accurately and clearly describe specific aspects and details of the prototyping process and their user research. Please comment whenever the student's use of words causes confusion.

@@ -83,6 +83,8 @@ We are encouraging students to develop professional-level writing skills so plea
 * Subject-verb disagreements
 * Apostrophe usage
 
+**Important**: Students should write in full sentences! Students should communicate their complete clearly and concisely as much as possible by using fully complete sentences.
+
 #### Clarity of Writing
 
 The student should accurately and clearly describe specific aspects and details of the support documentation or presentation. Please comment whenever the student's use of words causes confusion.
