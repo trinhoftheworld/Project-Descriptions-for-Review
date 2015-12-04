@@ -17,11 +17,11 @@ Completing the project consists of the following tasks.
 * Write a render loop that displays all the game objects, including the player's platform, the ball, and the blocks, using  ShapeRenderer.
 
 * Program the gameplay, including:
-** Polling for input to move the platform (arrow keys for the desktop build, and using the accelerometer on Android)
-** Moving the ball in real time and programming its bounce behavior.
-** Collision detection that makes the ball bounce when hitting a wall or block or the player platform, and destroying blocks on hit.
+    * Polling for input to move the platform (arrow keys for the desktop build, and using the accelerometer on Android)
+    * Moving the ball in real time and programming its bounce behavior.
+    * Collision detection that makes the ball bounce when hitting a wall or block or the player platform, and destroying blocks on hit.
 
 * Bonus challenges:
-** Implement a Score that goes up as the player destroys blocks.
-** Add a start screen, Game Over screen, and/or win screen.
-** Implement different difficulty settings (eg the ball moves faster, there is a time limit, blocks take multiple hits).
+    * Implement a Score that goes up as the player destroys blocks.
+    * Add a start screen, Game Over screen, and/or win screen.
+    * Implement different difficulty settings (eg the ball moves faster, there is a time limit, blocks take multiple hits).
