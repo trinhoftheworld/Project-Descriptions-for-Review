@@ -1,6 +1,6 @@
 ## Capstone
 
-Prepare for this project with [Front-End Frameworks](https://www.udacity.com/ud894), [Client-Server Communications](https://www.udacity.com/ud897), and [Just Like Native Apps](https://www.udacity.com/ud897).
+Prepare for this project with [Front-End Frameworks](https://www.udacity.com/ud894), [Client-Server Communications](https://www.udacity.com/ud897), and [Intro to Progressive Web Apps](https://www.udacity.com/ud897).
 
 ### Requirements
 
