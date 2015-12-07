@@ -10,4 +10,4 @@ You must create your very own web application that functions just as a native mo
 
 Your project will be evaluated by a Udacity reviewer according to the rubric below. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass.
 
-![Rubric](http://i.imgur.com/uUAiEZi.png)
+![Rubric](http://i.imgur.com/3q1uJQS.png)
