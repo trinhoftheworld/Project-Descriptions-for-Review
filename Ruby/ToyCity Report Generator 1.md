@@ -25,5 +25,5 @@ Before submitting your project for evaluation, we recommend that you check that 
 * Your program runs without any errors
 * You are proud of your project and its output
 * You completed your project according to the instructions
-* You checked your project against the rubric
-* Create a zip file with your  For instructions on how to do this, click here. When you feel ready to submit, use the blue 'Submit Project' button below!
+* You checked your project against the [rubric](https://docs.google.com/document/d/1-hvjfP7cLJa6mThuHfz-XASK2rYjMaeKP1B1m5rwlFs/pub)
+* Create a zip file with your  For instructions on how to do this, click [here](https://docs.google.com/document/d/1jPCDXBuD4xV8PsGLa5K9Fpn_9lSCTrXeOWcUKQGnATU/pub?embedded=true). When you feel ready to submit, use the blue 'Submit Project' button below!
