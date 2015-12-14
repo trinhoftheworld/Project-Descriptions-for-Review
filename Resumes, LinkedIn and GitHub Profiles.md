@@ -1,1 +1,1 @@
-Please see [this document](https://docs.google.com/document/d/1SSq7VLeWarH2tOBh6zXIIDK7yhdnPfFpzD7hhWcXZec/edit#heading=h.6wsdiqz6jxse) for information on resume, Github and LinkedIn profile reviews. 
+Please see [this document](https://docs.google.com/document/d/1bScz8k2ficQv5xpblSYpTr-T3rp98joKLMa4e9OC5WE/pub?embedded=true) for information on resume, Github and LinkedIn profile reviews. 
